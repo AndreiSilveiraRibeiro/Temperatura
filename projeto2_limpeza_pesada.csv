@@ -1,0 +1,801 @@
+nome,cpf,telefone,data_nascimento,estado,salario,quantidade_vendida,data_venda,email
+  joão silva  ,639.377.332-26,11 91234-5678,16-11-1980,ES,"R$ 1.767,57",10,2026-11-28,cliente696@email.com
+ANA paula  ,537.164.455-30,(11) 91234-5678,28/12/1980,MG,"R$ 2.858,24",6,2026-10-30,cliente667@email.com
+   fernanda lima,558.669.637-55,(11) 91234-5678,31/02/2000,SP,"R$ 3.928,25",6,2025-03-05,cliente63@email.com
+Carlos José,549.918.942-86,91234-5678,1980-04-08,S.Paulo,"R$ 3.739,68",1000,2026-06-18,cliente533@email.com
+MARIA SOUZA  ,370.986.896-38,(11) 91234-5678,1980-05-30,SP,"R$ 3.267,84",8,2025-03-08,cliente66@email.com
+ANA paula ,421.549.573-22,11912345678,17/10/1980,sp,"R$ 2.251,90",3,2026-09-14,cliente621@email.com
+Pedro  Santos  ,330.830.165-50,91234-5678,03/07/1980,Espírito Santo,"R$ 2.082,02",7,2025-12-13,cliente346@email.com
+   fernanda lima  ,675.593.661-94,11912345678,1980-01-10,Espírito Santo,"R$ 3.256,17",3,2026-05-06,cliente490@email.com
+   fernanda lima ,635.103.934-43,nan,1980-07-05,Espírito Santo,"R$ 2.786,12",9,2027-01-31,cliente760@email.com
+Carlos José  ,174.378.275-31,nan,30/03/1980,RJ,"R$ 3.696,32",6,2026-04-02,cliente456@email.com
+ANA paula ,198.496.588-48,11 91234-5678,16/03/1980,Espírito Santo,"R$ 1.846,51",7,2025-03-07,cliente65@email.com
+Pedro  Santos ,749.570.925-48,11 91234-5678,04/01/1980,sp,"R$ 3.149,60",6,2025-10-14,cliente286@email.com
+MARIA SOUZA,802.359.304-68,(11) 91234-5678,1980-11-15,S.Paulo,"R$ 2.980,21",7,2026-09-28,cliente635@email.com
+ANA paula ,174.983.899-11,11912345678,11/03/1980,RJ,"R$ 2.176,47",6,2025-03-09,cliente67@email.com
+   fernanda lima  ,596.879.332-56,(11) 91234-5678,27-11-1980,sp,"R$ 1.871,94",4,2025-11-24,cliente327@email.com
+MARIA SOUZA ,949.349.974-66,(11) 91234-5678,16/05/1980,Minas Gerais,"R$ 4.202,58",5,2026-01-31,cliente395@email.com
+ANA paula  ,599.837.608-23,11912345678,1981-01-30,Espírito Santo,"R$ 2.982,99",2,2025-09-02,cliente244@email.com
+   fernanda lima,237.149.870-86,11912345678,13/08/1980,S.Paulo,"R$ 1.801,05",6,2026-01-13,cliente377@email.com
+ANA paula,391.124.648-10,11912345678,1980-03-19,S.Paulo,"R$ 4.704,59",5,2026-09-03,cliente610@email.com
+Pedro  Santos  ,442.769.530-96,(11) 91234-5678,02-10-1980,S.Paulo,"R$ 2.511,11",8,2026-06-11,cliente526@email.com
+  joão silva ,326.335.972-80,11912345678,30-06-1980,São Paulo,"R$ 3.703,14",3,2026-10-21,cliente658@email.com
+  joão silva ,693.584.758-37,11912345678,1980-01-13,MG,"R$ 1.874,41",3,2026-06-14,cliente529@email.com
+Carlos José,283.210.607-43,(11) 91234-5678,1980-09-28,São Paulo,"R$ 1.032,67",5,2026-09-15,cliente622@email.com
+  joão silva,373.118.410-91,(11) 91234-5678,24/01/1981,ES,"R$ 3.746,98",4,2026-12-23,cliente721@email.com
+  joão silva,827.840.435-67,11912345678,21-01-1981,RJ,"R$ 3.149,46",8,2025-12-27,cliente360@email.com
+Pedro  Santos,269.620.562-49,11 91234-5678,31/02/2000,Rio de Janeiro,"R$ 1.755,46",5,2025-01-31,cliente30@email.com
+  joão silva  ,892.352.921-42,11912345678,28-01-1980,ES,"R$ 3.248,33",2,2025-09-18,cliente260@email.com
+  joão silva,730.389.949-84,(11) 91234-5678,1980-06-05,ES,"R$ 4.098,98",11,2026-09-30,cliente637@email.com
+Pedro  Santos ,204.989.292-26,(11) 91234-5678,1980-09-26,RJ,"R$ 4.186,15",1000,2027-01-17,cliente746@email.com
+Carlos José,168.264.588-58,91234-5678,28-02-1980,Espírito Santo,"R$ 2.235,81",6,2026-07-25,cliente570@email.com
+Pedro  Santos  ,259.622.749-82,(11) 91234-5678,02/10/1980,Espírito Santo,"R$ 3.019,46",6,2025-08-04,cliente215@email.com
+ANA paula ,690.126.785-59,(11) 91234-5678,1980-06-12,ES,"R$ 4.663,73",5,2025-03-20,cliente78@email.com
+Pedro  Santos ,703.379.736-22,11912345678,09/10/1980,RJ,"R$ 3.033,90",13,2026-08-02,cliente578@email.com
+MARIA SOUZA,455.681.701-13,11912345678,1980-07-06,MG,"R$ 1.926,67",2,2026-01-19,cliente383@email.com
+ANA paula  ,315.246.435-49,11 91234-5678,1980-03-04,MG,"R$ 4.373,91",8,2025-02-09,cliente39@email.com
+MARIA SOUZA ,989.852.672-44,11912345678,04-05-1980,RJ,"R$ 1.315,33",5,2025-01-24,cliente23@email.com
+   fernanda lima,178.223.570-53,11 91234-5678,1980-10-17,ES,"R$ 2.839,58",6,2026-11-24,cliente692@email.com
+  joão silva  ,771.859.302-29,(11) 91234-5678,1980-11-18,RJ,"R$ 2.898,01",1000,2026-02-03,cliente398@email.com
+Carlos José,587.177.925-42,(11) 91234-5678,03-06-1980,Espírito Santo,"R$ 2.660,24",11,2027-03-08,cliente796@email.com
+ANA paula,116.373.784-93,11912345678,1980-01-03,Minas Gerais,"R$ 3.391,13",3,2027-01-12,cliente741@email.com
+  joão silva,961.460.356-14,11912345678,29-08-1980,ES,"R$ 3.887,08",2,2025-05-20,cliente139@email.com
+ANA paula  ,505.242.441-69,11 91234-5678,25/09/1980,sp,"R$ 1.608,04",4,2025-09-08,cliente250@email.com
+Pedro  Santos,496.378.950-84,(11) 91234-5678,1980-07-24,ES,"R$ 895,25",9,2025-06-24,cliente174@email.com
+ANA paula  ,945.223.725-31,91234-5678,1980-02-02,Espírito Santo,"R$ 3.973,62",11,2025-11-20,cliente323@email.com
+  joão silva,786.850.871-16,11912345678,1980-12-03,RJ,"R$ 4.183,99",6,2026-08-19,cliente595@email.com
+MARIA SOUZA  ,619.252.958-55,(11) 91234-5678,1980-10-13,SP,"R$ 2.696,37",5,2026-06-10,cliente525@email.com
+   fernanda lima,480.779.157-37,nan,15-10-1980,sp,"R$ 2.181,39",4,2026-02-28,cliente423@email.com
+   fernanda lima  ,464.262.147-82,11912345678,1980-07-24,RJ,"R$ 3.341,83",4,2026-08-20,cliente596@email.com
+  joão silva  ,909.419.225-30,91234-5678,1980-12-26,S.Paulo,"R$ 1.650,23",5,2026-08-28,cliente604@email.com
+ANA paula  ,365.309.662-82,91234-5678,1980-03-15,ES,"R$ 5.572,00",6,2026-06-19,cliente534@email.com
+  joão silva,636.178.679-54,11912345678,29-11-1980,SP,"R$ 3.046,08",3,2025-09-23,cliente265@email.com
+Pedro  Santos ,111.186.623-22,11 91234-5678,1980-12-17,SP,"R$ 4.253,13",5,2025-04-20,cliente109@email.com
+   fernanda lima,248.639.587-63,(11) 91234-5678,1980-10-31,São Paulo,"R$ 2.772,89",3,2026-10-29,cliente666@email.com
+  joão silva  ,843.326.844-61,11 91234-5678,31-08-1980,ES,"R$ 3.479,51",7,2025-10-22,cliente293@email.com
+Pedro  Santos ,143.560.377-52,(11) 91234-5678,04/07/1980,Espírito Santo,"R$ 2.875,11",9,2025-12-03,cliente336@email.com
+  joão silva,784.839.449-64,(11) 91234-5678,22-01-1981,SP,"R$ 3.107,17",4,2026-01-04,cliente368@email.com
+MARIA SOUZA,892.765.481-14,11912345678,08-11-1980,ES,"R$ 2.394,84",6,2026-03-23,cliente446@email.com
+Pedro  Santos,633.959.896-22,11912345678,30-09-1980,ES,"R$ 4.801,43",6,2025-11-30,cliente332@email.com
+Pedro  Santos ,449.558.362-83,91234-5678,08-05-1980,MG,"R$ 3.499,10",3,2025-07-18,cliente198@email.com
+ANA paula,460.701.319-75,11 91234-5678,1980-06-12,MG,"R$ 4.598,32",2,2025-06-18,cliente168@email.com
+Pedro  Santos ,775.564.385-18,(11) 91234-5678,11-02-1980,Rio de Janeiro,"R$ 3.210,30",1000,2026-04-27,cliente481@email.com
+   fernanda lima  ,670.224.453-26,(11) 91234-5678,1980-01-23,Espírito Santo,"R$ 3.690,07",6,2026-12-25,cliente723@email.com
+   fernanda lima ,392.909.200-57,11 91234-5678,19-06-1980,Minas Gerais,"R$ 2.348,32",2,2026-10-18,cliente655@email.com
+   fernanda lima ,720.534.507-33,(11) 91234-5678,1980-05-11,São Paulo,"R$ 3.746,61",1,2025-11-03,cliente306@email.com
+ANA paula  ,271.869.713-90,(11) 91234-5678,1980-09-23,Espírito Santo,"R$ 1.444,63",4,2025-08-20,cliente231@email.com
+MARIA SOUZA ,825.727.703-23,11912345678,07-08-1980,Minas Gerais,"R$ 4.191,09",5,2026-02-27,cliente422@email.com
+ANA paula ,323.624.145-36,11 91234-5678,16/03/1980,MG,"R$ 1.780,72",4,2025-02-19,cliente49@email.com
+MARIA SOUZA  ,692.517.862-50,(11) 91234-5678,30/07/1980,S.Paulo,"R$ 3.366,81",8,2027-02-27,cliente787@email.com
+   fernanda lima,301.137.871-69,11912345678,1980-10-21,MG,"R$ 3.925,67",7,2025-12-24,cliente357@email.com
+  joão silva  ,816.820.171-30,11 91234-5678,24-11-1980,RJ,"R$ 1.709,44",5,2025-03-28,cliente86@email.com
+MARIA SOUZA  ,733.129.287-41,11 91234-5678,31/10/1980,sp,"R$ 1.487,47",4,2026-06-30,cliente545@email.com
+   fernanda lima  ,569.886.901-87,11912345678,07-09-1980,São Paulo,"R$ 3.715,73",3,2025-07-12,cliente192@email.com
+Carlos José ,468.950.142-44,91234-5678,23-07-1980,São Paulo,"R$ 1.992,09",2,2027-03-07,cliente795@email.com
+ANA paula ,350.275.701-27,(11) 91234-5678,1980-12-20,São Paulo,"R$ 1.985,52",6,2025-02-03,cliente33@email.com
+MARIA SOUZA ,636.360.494-68,(11) 91234-5678,09-01-1981,Rio de Janeiro,"R$ 3.232,87",6,2025-02-01,cliente31@email.com
+   fernanda lima ,138.258.682-72,(11) 91234-5678,05-04-1980,Minas Gerais,"R$ 1.307,73",12,2025-07-19,cliente199@email.com
+Carlos José ,505.763.208-85,91234-5678,14-12-1980,RJ,"R$ 2.494,03",6,2026-01-01,cliente365@email.com
+   fernanda lima,972.736.721-95,11 91234-5678,1980-05-01,Minas Gerais,"R$ 3.475,59",4,2026-05-02,cliente486@email.com
+ANA paula ,790.830.181-60,(11) 91234-5678,14-01-1981,ES,"R$ 2.942,96",6,2026-08-18,cliente594@email.com
+  joão silva ,158.530.737-26,11912345678,23-11-1980,S.Paulo,"R$ 2.473,47",11,2026-07-23,cliente568@email.com
+   fernanda lima ,478.277.526-28,(11) 91234-5678,1980-04-08,São Paulo,"R$ 4.290,76",3,2026-03-05,cliente428@email.com
+   fernanda lima,494.109.806-23,11 91234-5678,02/09/1980,Espírito Santo,"R$ 779,58",4,2025-05-18,cliente137@email.com
+MARIA SOUZA ,552.486.606-10,91234-5678,01/10/1980,São Paulo,4729.78,5,2025-03-14,cliente72@email.com
+MARIA SOUZA ,756.704.408-17,11 91234-5678,21-11-1980,SP,"R$ 4.292,75",8,2025-03-19,cliente77@email.com
+MARIA SOUZA  ,148.401.980-71,(11) 91234-5678,08/04/1980,São Paulo,"R$ 2.460,41",1000,2026-05-28,cliente512@email.com
+Pedro  Santos,180.588.994-97,(11) 91234-5678,01/07/1980,Espírito Santo,"R$ 2.902,47",3,2027-02-23,cliente783@email.com
+  joão silva,990.297.100-32,(11) 91234-5678,1980-09-30,RJ,1683.07,3,2027-02-26,cliente785@email.com
+ANA paula,255.289.593-16,11 91234-5678,15-11-1980,sp,"R$ 2.410,55",5,2025-10-03,cliente275@email.com
+Carlos José  ,154.599.987-33,(11) 91234-5678,22/09/1980,Minas Gerais,"R$ 3.770,75",1000,2025-12-28,cliente361@email.com
+ANA paula  ,688.215.765-31,(11) 91234-5678,19/11/1980,SP,"R$ 3.982,68",4,2025-04-07,cliente96@email.com
+  joão silva,308.442.187-59,11912345678,17/01/1981,São Paulo,"R$ 3.036,78",11,2026-10-04,cliente641@email.com
+ANA paula,820.851.430-86,(11) 91234-5678,1980-05-19,Rio de Janeiro,"R$ 4.048,86",5,2026-12-17,cliente715@email.com
+Carlos José  ,673.867.582-16,11912345678,25/01/1981,ES,"R$ 2.930,37",6,2025-10-09,cliente281@email.com
+Carlos José  ,304.681.655-82,nan,25-02-1980,Espírito Santo,"R$ 5.068,23",3,2026-01-29,cliente393@email.com
+   fernanda lima ,152.886.412-34,11912345678,20/11/1980,ES,"R$ 4.515,44",5,2026-09-21,cliente628@email.com
+ANA paula,469.363.893-80,11912345678,25/09/1980,Minas Gerais,"R$ 2.558,15",5,2026-09-01,cliente608@email.com
+Carlos José,588.785.341-35,(11) 91234-5678,29/09/1980,MG,"R$ 3.468,98",6,2026-12-07,cliente705@email.com
+ANA paula  ,498.853.727-17,11912345678,18-06-1980,SP,"R$ 3.409,44",3,2027-01-25,cliente754@email.com
+MARIA SOUZA ,511.671.434-46,11912345678,12-03-1980,ES,"R$ 1.311,49",3,2025-02-24,cliente54@email.com
+  joão silva  ,381.982.502-69,(11) 91234-5678,15/08/1980,Rio de Janeiro,"R$ 2.246,14",500,2027-01-21,cliente750@email.com
+Carlos José  ,594.526.277-32,11 91234-5678,15/01/1980,RJ,4649.02,-5,2025-06-05,cliente155@email.com
+  joão silva ,666.658.337-91,11 91234-5678,1980-12-08,sp,"R$ 2.590,20",9,2026-03-09,cliente432@email.com
+Carlos José  ,202.293.265-55,11 91234-5678,1980-10-26,Rio de Janeiro,"R$ 1.599,93",3,2025-04-08,cliente97@email.com
+MARIA SOUZA ,615.831.463-29,11912345678,1981-01-20,Espírito Santo,"R$ 2.876,66",9,2025-05-01,cliente120@email.com
+MARIA SOUZA,638.683.159-55,11912345678,11/10/1980,MG,"R$ 4.351,11",5,2025-03-18,cliente76@email.com
+  joão silva ,986.217.376-95,11 91234-5678,11-07-1980,SP,"R$ 925,51",1,2025-07-24,cliente204@email.com
+ANA paula ,854.834.169-65,11912345678,1980-09-21,Espírito Santo,"R$ 1.153,43",5,2025-12-19,cliente352@email.com
+  joão silva,665.425.456-66,11912345678,27/09/1980,Minas Gerais,"R$ 1.729,05",2,2027-02-04,cliente764@email.com
+   fernanda lima,253.958.392-77,(11) 91234-5678,31/02/2000,S.Paulo,"R$ 3.729,06",5,2025-07-28,cliente208@email.com
+ANA paula ,967.803.118-57,11912345678,01-05-1980,Espírito Santo,"R$ 3.062,33",3,2026-01-03,cliente367@email.com
+ANA paula  ,859.353.998-81,(11) 91234-5678,28/06/1980,RJ,"R$ 2.452,09",4,2026-03-02,cliente425@email.com
+  joão silva ,717.462.921-18,(11) 91234-5678,24/09/1980,S.Paulo,"R$ 2.095,05",4,2026-05-31,cliente515@email.com
+   fernanda lima  ,930.825.600-11,(11) 91234-5678,1980-08-08,São Paulo,"R$ 2.551,46",5,2025-03-26,cliente84@email.com
+ANA paula,392.764.531-74,11912345678,1981-01-23,Minas Gerais,"R$ 3.531,03",2,2025-01-11,cliente10@email.com
+   fernanda lima  ,431.238.456-98,11912345678,1980-07-29,sp,"R$ 2.375,49",6,2026-12-22,cliente720@email.com
+Pedro  Santos,636.400.342-28,(11) 91234-5678,01-09-1980,RJ,2893.74,2,2025-04-21,cliente110@email.com
+ANA paula  ,100.267.719-28,11912345678,06-12-1980,Espírito Santo,"R$ 2.072,45",7,2026-06-06,cliente521@email.com
+Pedro  Santos ,261.866.353-18,nan,19/11/1980,Espírito Santo,"R$ 2.846,09",7,2027-02-17,cliente777@email.com
+MARIA SOUZA ,149.763.630-69,91234-5678,08/01/1980,MG,3167.04,5,2025-07-29,cliente209@email.com
+   fernanda lima ,576.386.402-64,11912345678,1980-10-01,ES,"R$ 4.037,16",6,2025-08-24,cliente235@email.com
+  joão silva,316.477.218-71,(11) 91234-5678,30/03/1980,RJ,"R$ 2.815,85",6,2025-11-13,cliente316@email.com
+  joão silva  ,695.763.647-94,11912345678,08/07/1980,ES,"R$ 4.807,61",5,2026-01-24,cliente388@email.com
+  joão silva,431.916.961-94,11912345678,16/02/1980,Rio de Janeiro,"R$ 2.681,25",3,2025-04-29,cliente118@email.com
+  joão silva ,795.931.798-71,(11) 91234-5678,1980-02-27,São Paulo,"R$ 2.973,74",2,2026-12-21,cliente719@email.com
+Pedro  Santos,266.301.956-27,(11) 91234-5678,21-04-1980,Minas Gerais,3446.62,5,2025-07-30,cliente210@email.com
+MARIA SOUZA,315.769.561-15,11912345678,16-09-1980,sp,"R$ 3.889,15",10,2025-09-12,cliente254@email.com
+  joão silva ,963.681.794-84,(11) 91234-5678,02/01/1981,Rio de Janeiro,"R$ 2.654,85",5,2026-08-15,cliente591@email.com
+Pedro  Santos ,748.294.837-85,(11) 91234-5678,1980-07-24,SP,"R$ 4.360,12",500,2025-01-30,cliente29@email.com
+  joão silva ,111.899.227-22,(11) 91234-5678,12/10/1980,RJ,"R$ 1.926,31",6,2025-09-24,cliente266@email.com
+Pedro  Santos,970.639.652-56,11 91234-5678,1980-07-07,São Paulo,"R$ 805,62",7,2026-10-19,cliente656@email.com
+  joão silva ,921.199.720-96,(11) 91234-5678,1980-03-11,ES,"R$ 2.516,38",2,2026-10-25,cliente662@email.com
+   fernanda lima ,116.219.492-50,11 91234-5678,1980-02-01,RJ,"R$ 2.307,65",7,2025-10-24,cliente296@email.com
+   fernanda lima,657.626.252-87,11912345678,14-02-1980,S.Paulo,1526.26,7,2025-03-23,cliente81@email.com
+  joão silva  ,324.828.603-81,11 91234-5678,1980-07-25,MG,"R$ 4.292,06",3,2026-11-20,cliente688@email.com
+Pedro  Santos  ,954.955.272-92,11912345678,16/09/1980,MG,"R$ 3.907,96",6,2025-10-30,cliente302@email.com
+   fernanda lima,764.821.672-21,11912345678,1980-04-18,ES,"R$ 1.001,11",2,2026-05-22,cliente506@email.com
+Pedro  Santos ,806.466.379-36,11912345678,10/10/1980,Espírito Santo,"R$ 2.811,80",5,2027-01-29,cliente758@email.com
+  joão silva ,428.562.660-45,(11) 91234-5678,1981-01-17,MG,"R$ 3.137,35",6,2025-11-11,cliente314@email.com
+   fernanda lima,750.732.676-28,11 91234-5678,19-06-1980,ES,"R$ 3.134,17",7,2026-10-07,cliente644@email.com
+ANA paula  ,142.780.522-95,(11) 91234-5678,23-04-1980,Rio de Janeiro,"R$ 2.461,43",3,2026-02-14,cliente409@email.com
+  joão silva ,775.538.341-78,11 91234-5678,09-06-1980,Rio de Janeiro,"R$ 2.728,69",9,2025-07-31,cliente211@email.com
+Pedro  Santos ,869.896.204-83,(11) 91234-5678,1980-07-13,RJ,"R$ 3.431,63",5,2026-06-17,cliente532@email.com
+   fernanda lima,188.753.302-62,11912345678,03/02/1980,Minas Gerais,"R$ 2.990,82",5,2026-04-29,cliente483@email.com
+MARIA SOUZA ,362.696.757-76,11912345678,21-06-1980,sp,"R$ 2.694,81",4,2025-08-07,cliente218@email.com
+Pedro  Santos,458.439.488-74,11912345678,18-05-1980,sp,"R$ 3.479,36",5,2025-01-08,cliente7@email.com
+MARIA SOUZA,541.914.905-24,nan,26/11/1980,SP,"R$ 2.870,97",6,2026-04-10,cliente464@email.com
+  joão silva ,458.322.515-50,11 91234-5678,08-03-1980,RJ,"R$ 2.271,83",7,2025-04-12,cliente101@email.com
+   fernanda lima,221.643.321-48,(11) 91234-5678,1981-01-27,SP,"R$ 2.233,88",7,2025-11-23,cliente326@email.com
+Carlos José,635.975.622-26,11 91234-5678,1980-01-13,Rio de Janeiro,"R$ 3.430,86",5,2026-10-15,cliente652@email.com
+  joão silva  ,704.777.486-25,11 91234-5678,16-01-1981,SP,3858.81,8,2026-06-22,cliente537@email.com
+ANA paula  ,885.195.825-47,11 91234-5678,22/11/1980,RJ,"R$ 3.082,77",1,2026-10-03,cliente640@email.com
+Pedro  Santos,513.350.858-22,11912345678,05/04/1980,MG,"R$ 4.166,37",7,2025-01-03,cliente2@email.com
+MARIA SOUZA,700.704.426-76,91234-5678,03/02/1980,SP,"R$ 4.900,27",2,2027-01-09,cliente738@email.com
+  joão silva  ,898.301.131-68,(11) 91234-5678,13/11/1980,RJ,"R$ 3.390,37",7,2027-02-16,cliente776@email.com
+MARIA SOUZA ,496.803.878-28,11912345678,07-11-1980,Rio de Janeiro,"R$ 3.114,10",4,2026-06-04,cliente519@email.com
+  joão silva,681.628.982-28,(11) 91234-5678,06-01-1981,São Paulo,4735.95,2,2026-08-13,cliente589@email.com
+Pedro  Santos ,827.414.950-15,11 91234-5678,1980-12-11,sp,"R$ 3.786,41",5,2027-03-10,cliente798@email.com
+  joão silva  ,976.503.727-96,91234-5678,25/01/1981,São Paulo,"R$ 2.355,66",3,2027-01-15,cliente744@email.com
+Pedro  Santos  ,235.654.503-48,11 91234-5678,24/10/1980,ES,"R$ 3.894,91",5,2026-05-29,cliente513@email.com
+ANA paula ,749.664.143-56,(11) 91234-5678,1980-11-27,sp,"R$ 3.637,61",6,2026-11-02,cliente670@email.com
+ANA paula  ,216.581.491-30,11 91234-5678,1980-12-18,S.Paulo,"R$ 1.970,03",4,2025-09-22,cliente264@email.com
+Pedro  Santos,483.359.513-84,11 91234-5678,26-01-1981,Espírito Santo,"R$ 2.722,49",5,2026-09-08,cliente615@email.com
+   fernanda lima  ,737.401.459-16,11 91234-5678,1980-08-22,São Paulo,1184.28,6,2025-11-26,cliente329@email.com
+  joão silva ,228.975.360-12,11 91234-5678,1980-01-22,MG,"R$ 4.040,43",5,2025-12-09,cliente342@email.com
+MARIA SOUZA ,912.327.795-93,11912345678,08-06-1980,Espírito Santo,"R$ 1.602,19",8,2026-01-30,cliente394@email.com
+MARIA SOUZA,298.486.448-73,91234-5678,1980-08-11,Rio de Janeiro,"R$ 3.305,24",4,2025-03-21,cliente79@email.com
+ANA paula ,381.896.100-44,11912345678,13-08-1980,Rio de Janeiro,2068.84,5,2025-05-29,cliente148@email.com
+  joão silva,113.732.517-62,(11) 91234-5678,11-08-1980,Espírito Santo,"R$ 3.556,02",8,2025-12-17,cliente350@email.com
+   fernanda lima  ,148.173.803-14,(11) 91234-5678,01/11/1980,S.Paulo,"R$ 5.935,66",3,2026-01-18,cliente382@email.com
+Carlos José  ,748.623.913-25,(11) 91234-5678,04-03-1980,Minas Gerais,"R$ 4.026,89",7,2026-03-17,cliente440@email.com
+   fernanda lima,535.498.310-16,11 91234-5678,1980-04-17,S.Paulo,"R$ 2.147,78",6,2025-11-06,cliente309@email.com
+   fernanda lima,919.460.558-63,11912345678,25/01/1981,MG,2769.57,7,2026-12-09,cliente707@email.com
+Pedro  Santos,244.990.956-37,11 91234-5678,22/10/1980,RJ,"R$ 1.626,17",4,2025-05-14,cliente133@email.com
+MARIA SOUZA,680.448.931-46,11 91234-5678,18/07/1980,MG,3007.74,5,2026-01-17,cliente381@email.com
+  joão silva  ,730.760.761-57,(11) 91234-5678,15-07-1980,SP,"R$ 1.878,47",3,2025-08-02,cliente213@email.com
+   fernanda lima,112.309.840-22,(11) 91234-5678,1980-10-12,sp,"R$ 3.533,21",3,2026-10-22,cliente659@email.com
+Carlos José ,377.295.963-77,11912345678,09-07-1980,Rio de Janeiro,"R$ 1.879,95",9,2025-02-25,cliente55@email.com
+ANA paula,537.859.346-36,11912345678,19-03-1980,São Paulo,"R$ 1.651,82",4,2027-01-07,cliente736@email.com
+Carlos José ,845.479.755-69,91234-5678,1980-09-01,Rio de Janeiro,"R$ 4.090,18",7,2026-09-13,cliente620@email.com
+   fernanda lima  ,619.383.616-26,11 91234-5678,1980-11-26,sp,"R$ 2.822,40",2,2026-08-06,cliente582@email.com
+MARIA SOUZA  ,948.967.497-19,11 91234-5678,23/11/1980,Rio de Janeiro,"R$ 1.481,03",6,2026-11-05,cliente673@email.com
+ANA paula  ,788.786.951-91,(11) 91234-5678,27/07/1980,S.Paulo,"R$ 4.588,94",5,2026-06-12,cliente527@email.com
+MARIA SOUZA,769.757.101-58,nan,20-11-1980,RJ,"R$ 4.623,88",4,2025-07-16,cliente196@email.com
+Pedro  Santos  ,322.833.102-15,11 91234-5678,1980-01-02,SP,"R$ 1.549,07",4,2026-12-15,cliente713@email.com
+Pedro  Santos  ,144.313.158-13,11 91234-5678,04-10-1980,RJ,"R$ 2.250,83",2,2026-11-21,cliente689@email.com
+ANA paula ,815.775.862-61,11912345678,09/09/1980,S.Paulo,"R$ 1.972,60",6,2025-03-02,cliente60@email.com
+Pedro  Santos,458.935.598-10,(11) 91234-5678,02/09/1980,ES,"R$ 2.429,69",6,2026-07-31,cliente576@email.com
+Pedro  Santos ,109.583.555-63,(11) 91234-5678,19/07/1980,SP,"R$ 2.499,80",5,2026-09-24,cliente631@email.com
+Carlos José ,263.584.696-81,(11) 91234-5678,1980-11-28,S.Paulo,"R$ 3.698,92",6,2026-03-08,cliente431@email.com
+Carlos José ,782.934.665-19,(11) 91234-5678,16/02/1980,RJ,1524.32,4,2026-08-27,cliente603@email.com
+   fernanda lima,769.368.261-13,(11) 91234-5678,1980-12-17,S.Paulo,"R$ 4.618,79",2,2026-03-19,cliente442@email.com
+ANA paula,725.974.139-42,nan,01/08/1980,RJ,"R$ 2.224,13",2,2026-03-13,cliente436@email.com
+Carlos José ,548.942.934-61,11 91234-5678,20/02/1980,São Paulo,"R$ 2.286,42",4,2025-09-05,cliente247@email.com
+Carlos José  ,345.760.857-20,11 91234-5678,05-07-1980,sp,"R$ 2.228,80",8,2026-08-10,cliente586@email.com
+Carlos José  ,208.835.377-77,11 91234-5678,1980-10-02,Rio de Janeiro,"R$ 2.476,42",7,2026-07-24,cliente569@email.com
+MARIA SOUZA  ,878.313.790-97,11912345678,27/05/1980,Rio de Janeiro,"R$ 4.534,48",5,2025-04-01,cliente90@email.com
+MARIA SOUZA ,731.274.122-94,(11) 91234-5678,1980-03-27,Minas Gerais,"R$ 2.621,24",4,2026-10-13,cliente650@email.com
+  joão silva,721.941.876-12,(11) 91234-5678,1980-02-13,sp,"R$ 1.400,61",4,2025-07-01,cliente181@email.com
+  joão silva  ,436.674.660-85,(11) 91234-5678,14/01/1980,sp,"R$ 3.151,40",2,2027-03-02,cliente790@email.com
+MARIA SOUZA  ,518.526.578-20,(11) 91234-5678,05/02/1980,S.Paulo,"R$ 3.239,63",4,2026-07-09,cliente554@email.com
+   fernanda lima ,494.802.407-64,11 91234-5678,26/06/1980,Espírito Santo,"R$ 3.392,63",5,2025-10-18,cliente290@email.com
+   fernanda lima ,435.845.991-17,nan,1981-01-28,ES,"R$ 2.576,24",4,2025-06-08,cliente158@email.com
+   fernanda lima,638.806.948-65,(11) 91234-5678,19/10/1980,Rio de Janeiro,"R$ 4.325,28",4,2025-03-11,cliente69@email.com
+Carlos José,628.955.888-60,(11) 91234-5678,03-11-1980,São Paulo,"R$ 2.725,15",3,2026-06-02,cliente517@email.com
+Carlos José  ,480.722.113-98,(11) 91234-5678,05/04/1980,S.Paulo,"R$ 914,10",4,2025-05-12,cliente131@email.com
+Carlos José ,232.846.656-67,(11) 91234-5678,1980-08-30,MG,"R$ 2.228,23",6,2025-02-14,cliente44@email.com
+   fernanda lima,703.120.402-89,11912345678,13-07-1980,São Paulo,"R$ 3.827,12",5,2025-03-12,cliente70@email.com
+ANA paula  ,709.325.511-86,11912345678,1980-02-26,SP,"R$ 3.210,50",4,2026-11-23,cliente691@email.com
+   fernanda lima,635.326.253-46,nan,11/02/1980,Rio de Janeiro,4580.34,8,2025-12-22,cliente355@email.com
+ANA paula,346.739.894-78,11 91234-5678,25-05-1980,Espírito Santo,"R$ 1.783,10",6,2026-03-21,cliente444@email.com
+MARIA SOUZA  ,532.570.280-32,11912345678,09-05-1980,Rio de Janeiro,"R$ 3.970,32",4,2027-02-01,cliente761@email.com
+Carlos José ,548.523.559-65,nan,1981-01-08,sp,"R$ 3.115,82",5,2025-05-16,cliente135@email.com
+ANA paula ,554.372.993-93,(11) 91234-5678,03/02/1980,S.Paulo,"R$ 3.447,39",4,2025-03-24,cliente82@email.com
+Carlos José  ,939.444.913-77,(11) 91234-5678,06/05/1980,MG,"R$ 3.487,77",4,2025-06-15,cliente165@email.com
+  joão silva ,747.402.843-85,11 91234-5678,1980-01-22,Minas Gerais,"R$ 4.048,48",5,2025-06-14,cliente164@email.com
+  joão silva  ,716.422.734-38,11912345678,1980-01-25,MG,"R$ 6.076,86",3,2025-01-29,cliente28@email.com
+MARIA SOUZA,471.585.533-15,11912345678,28-03-1980,S.Paulo,"R$ 4.573,73",4,2026-03-25,cliente448@email.com
+Carlos José,992.472.663-36,nan,12/05/1980,MG,"R$ 5.394,36",3,2025-07-13,cliente193@email.com
+   fernanda lima,641.336.378-14,11 91234-5678,20-12-1980,MG,"R$ 3.135,92",2,2025-08-28,cliente239@email.com
+   fernanda lima,718.910.344-89,91234-5678,31/02/2000,Espírito Santo,"R$ 4.087,71",7,2026-12-26,cliente724@email.com
+   fernanda lima,520.173.647-37,11 91234-5678,1980-11-12,S.Paulo,3036.45,7,2027-01-01,cliente730@email.com
+MARIA SOUZA,548.523.559-65,11912345678,29/10/1980,Minas Gerais,"R$ 3.389,60",5,2025-05-17,cliente135@email.com
+ANA paula ,827.875.362-45,11912345678,1980-10-22,ES,"R$ 1.948,78",5,2026-10-27,cliente664@email.com
+Carlos José  ,360.872.449-17,11912345678,30/03/1980,São Paulo,"R$ 2.470,80",4,2025-11-08,cliente311@email.com
+MARIA SOUZA  ,375.875.782-85,11912345678,09/10/1980,ES,"R$ 3.286,77",3,2025-05-21,cliente140@email.com
+  joão silva,945.606.695-34,11912345678,1980-02-04,Espírito Santo,"R$ 2.739,69",7,2026-04-19,cliente473@email.com
+Pedro  Santos  ,539.847.338-19,11912345678,1980-11-18,Rio de Janeiro,"R$ 2.438,16",5,2025-01-07,cliente6@email.com
+ANA paula,695.699.853-95,11912345678,24-02-1980,SP,"R$ 2.997,21",4,2026-12-30,cliente728@email.com
+Carlos José ,652.467.246-55,91234-5678,22/07/1980,RJ,"R$ 2.723,33",7,2027-01-26,cliente755@email.com
+ANA paula,669.991.626-43,11 91234-5678,15/04/1980,SP,"R$ 3.211,40",8,2025-03-15,cliente73@email.com
+  joão silva  ,936.475.443-68,11912345678,31-05-1980,Rio de Janeiro,"R$ 2.602,68",4,2026-07-14,cliente559@email.com
+Pedro  Santos,128.196.109-67,91234-5678,16-01-1980,SP,"R$ 3.536,41",3,2025-10-27,cliente299@email.com
+  joão silva ,255.466.818-15,11912345678,1980-03-16,sp,"R$ 3.069,37",2,2025-05-26,cliente145@email.com
+ANA paula ,645.663.723-91,11912345678,08/01/1980,SP,"R$ 1.417,78",5,2025-10-20,cliente292@email.com
+  joão silva,541.647.552-86,11912345678,07-04-1980,MG,"R$ 3.041,29",6,2025-08-23,cliente234@email.com
+   fernanda lima  ,852.558.379-69,11912345678,06/07/1980,SP,"R$ 2.664,76",7,2025-08-09,cliente220@email.com
+Pedro  Santos ,549.463.975-82,(11) 91234-5678,18-06-1980,S.Paulo,"R$ 1.503,84",5,2026-03-27,cliente450@email.com
+   fernanda lima,525.646.401-35,(11) 91234-5678,1980-07-26,S.Paulo,"R$ 2.775,15",5,2026-01-16,cliente380@email.com
+   fernanda lima  ,183.229.842-79,(11) 91234-5678,1980-09-22,Rio de Janeiro,"R$ 1.527,96",7,2025-05-13,cliente132@email.com
+  joão silva  ,970.236.701-25,nan,22-11-1980,Espírito Santo,1978.86,4,2026-01-11,cliente375@email.com
+Carlos José,952.483.544-50,91234-5678,03-12-1980,S.Paulo,"R$ 2.400,18",7,2026-02-09,cliente404@email.com
+Pedro  Santos  ,431.683.555-70,11 91234-5678,1980-06-05,Minas Gerais,"R$ 2.809,76",4,2026-06-07,cliente522@email.com
+  joão silva ,923.760.198-85,11 91234-5678,1980-08-13,sp,"R$ 2.746,05",6,2027-01-20,cliente749@email.com
+MARIA SOUZA  ,143.196.653-15,(11) 91234-5678,05/05/1980,São Paulo,"R$ 1.664,14",7,2026-03-03,cliente426@email.com
+Pedro  Santos  ,915.780.880-54,11 91234-5678,1980-10-24,Minas Gerais,"R$ 3.475,37",6,2025-02-11,cliente41@email.com
+ANA paula,107.400.442-56,11 91234-5678,16/06/1980,Espírito Santo,"R$ 2.198,47",4,2026-05-11,cliente495@email.com
+  joão silva,799.973.113-84,11912345678,11/11/1980,RJ,"R$ 3.240,21",2,2025-04-19,cliente108@email.com
+ANA paula  ,973.965.590-98,91234-5678,1980-05-13,S.Paulo,"R$ 2.631,06",2,2025-12-11,cliente344@email.com
+MARIA SOUZA  ,830.291.116-21,11 91234-5678,1981-01-09,Espírito Santo,"R$ 3.670,91",6,2025-02-26,cliente56@email.com
+  joão silva ,867.365.636-75,11912345678,1980-10-05,sp,"R$ 3.501,69",3,2025-09-17,cliente259@email.com
+ANA paula ,172.862.735-28,(11) 91234-5678,1980-01-16,Rio de Janeiro,"R$ 1.801,61",6,2026-04-25,cliente479@email.com
+Carlos José  ,729.832.330-62,11 91234-5678,09/05/1980,ES,"R$ 3.249,42",5,2026-09-18,cliente625@email.com
+Carlos José  ,638.259.248-17,11 91234-5678,25/10/1980,S.Paulo,"R$ 3.289,18",4,2025-08-16,cliente227@email.com
+Carlos José ,786.660.582-42,11 91234-5678,06-07-1980,Espírito Santo,"R$ 1.783,42",3,2025-08-01,cliente212@email.com
+   fernanda lima,814.803.860-90,(11) 91234-5678,04/04/1980,RJ,"R$ 2.387,02",3,2026-08-17,cliente593@email.com
+Carlos José,633.959.896-22,11912345678,1981-01-07,São Paulo,"R$ 3.549,68",0,2025-11-29,cliente332@email.com
+   fernanda lima ,789.949.161-26,(11) 91234-5678,09-03-1980,S.Paulo,"R$ 3.190,92",2,2025-01-25,cliente24@email.com
+  joão silva ,535.210.252-30,11 91234-5678,1980-06-16,Minas Gerais,"R$ 2.060,03",4,2027-02-20,cliente780@email.com
+ANA paula,476.119.686-25,91234-5678,28/04/1980,sp,"R$ 2.408,72",10,2025-12-18,cliente351@email.com
+Carlos José ,841.568.921-30,(11) 91234-5678,25-11-1980,sp,"R$ 2.153,57",9,2025-12-23,cliente356@email.com
+MARIA SOUZA ,547.955.464-44,11912345678,1980-09-02,RJ,"R$ 2.875,98",7,2025-02-21,cliente51@email.com
+   fernanda lima,355.697.761-98,(11) 91234-5678,14-09-1980,ES,"R$ 2.004,83",4,2025-11-28,cliente331@email.com
+Carlos José  ,555.702.889-36,(11) 91234-5678,20-10-1980,S.Paulo,"R$ 1.042,66",8,2027-01-04,cliente733@email.com
+MARIA SOUZA ,825.130.436-64,91234-5678,27-05-1980,ES,"R$ 3.381,73",-10,2026-09-22,cliente629@email.com
+   fernanda lima ,231.922.554-37,11912345678,03/09/1980,MG,"R$ 2.438,66",4,2026-05-17,cliente501@email.com
+   fernanda lima  ,562.535.382-59,11 91234-5678,31/02/2000,Rio de Janeiro,"R$ 1.698,41",0,2025-12-01,cliente334@email.com
+  joão silva  ,345.841.690-30,11 91234-5678,1980-07-06,RJ,"R$ 2.985,73",4,2025-10-13,cliente285@email.com
+MARIA SOUZA,409.984.342-83,91234-5678,26/09/1980,MG,"R$ 2.524,20",5,2025-01-19,cliente18@email.com
+ANA paula  ,163.190.216-20,(11) 91234-5678,31/02/2000,Minas Gerais,3019.73,4,2026-08-08,cliente584@email.com
+  joão silva,832.679.808-20,11912345678,1980-03-11,S.Paulo,"R$ 2.446,82",4,2027-01-19,cliente748@email.com
+   fernanda lima  ,839.620.777-57,11 91234-5678,1980-11-13,São Paulo,"R$ 2.498,77",4,2025-03-25,cliente83@email.com
+Carlos José,480.559.106-38,11912345678,10/01/1981,Minas Gerais,"R$ 2.626,73",6,2025-03-03,cliente61@email.com
+Carlos José ,223.100.858-96,(11) 91234-5678,1980-01-25,RJ,"R$ 2.742,70",1,2026-04-08,cliente462@email.com
+  joão silva ,728.893.609-77,11912345678,07-07-1980,RJ,"R$ 3.453,59",4,2025-10-19,cliente291@email.com
+ANA paula ,326.800.575-18,(11) 91234-5678,12/12/1980,SP,"R$ 3.910,42",4,2026-03-24,cliente447@email.com
+Pedro  Santos,184.893.427-57,11912345678,17/09/1980,ES,"R$ 5.277,09",5,2025-07-02,cliente182@email.com
+Pedro  Santos  ,924.217.711-42,11912345678,07-08-1980,Rio de Janeiro,"R$ 3.161,70",7,2026-07-04,cliente549@email.com
+  joão silva  ,887.604.768-60,11 91234-5678,03/11/1980,MG,"R$ 1.298,10",6,2026-05-16,cliente500@email.com
+  joão silva  ,843.840.452-45,11912345678,12-02-1980,ES,"R$ 2.795,12",5,2025-08-12,cliente223@email.com
+  joão silva ,125.980.546-75,(11) 91234-5678,28-01-1980,Rio de Janeiro,"R$ 4.092,11",6,2026-03-01,cliente424@email.com
+MARIA SOUZA  ,500.650.492-86,(11) 91234-5678,31/02/2000,São Paulo,1705.65,3,2026-04-13,cliente467@email.com
+ANA paula,473.880.792-41,(11) 91234-5678,19/01/1980,Espírito Santo,"R$ 925,36",4,2025-11-16,cliente319@email.com
+   fernanda lima  ,629.248.496-30,11912345678,29/01/1980,sp,"R$ 3.309,89",8,2025-11-25,cliente328@email.com
+Pedro  Santos  ,201.605.834-68,(11) 91234-5678,17-03-1980,São Paulo,"R$ 3.415,83",7,2026-03-20,cliente443@email.com
+ANA paula  ,300.544.423-44,nan,24-11-1980,Rio de Janeiro,"R$ 2.502,04",2,2026-05-09,cliente493@email.com
+ANA paula ,700.824.754-74,11912345678,1980-03-27,RJ,"R$ 3.155,32",2,2025-06-26,cliente176@email.com
+   fernanda lima  ,640.270.508-69,11912345678,1980-03-23,Minas Gerais,"R$ 1.760,44",5,2026-11-08,cliente676@email.com
+  joão silva,258.287.159-28,11912345678,30-01-1981,RJ,"R$ 3.827,24",5,2025-12-30,cliente363@email.com
+   fernanda lima ,513.213.244-35,11912345678,05/02/1980,SP,"R$ 1.725,77",4,2025-06-13,cliente163@email.com
+Pedro  Santos ,801.506.765-77,11 91234-5678,15/02/1980,ES,"R$ 1.179,24",2,2025-09-06,cliente248@email.com
+ANA paula ,670.282.140-48,(11) 91234-5678,1980-05-09,S.Paulo,"R$ 2.953,74",6,2026-06-03,cliente518@email.com
+ANA paula,657.552.489-47,11912345678,1980-07-24,ES,"R$ 2.827,37",4,2026-12-12,cliente710@email.com
+   fernanda lima ,262.931.892-33,11 91234-5678,04/03/1980,S.Paulo,"R$ 4.062,66",8,2025-03-16,cliente74@email.com
+   fernanda lima ,988.931.256-37,(11) 91234-5678,22-03-1980,MG,"R$ 3.745,15",2,2026-10-06,cliente643@email.com
+ANA paula ,260.277.728-77,11 91234-5678,1980-12-03,Espírito Santo,"R$ 1.441,21",-5,2026-02-10,cliente405@email.com
+  joão silva,417.210.350-16,11912345678,04-12-1980,Espírito Santo,"R$ 2.260,23",4,2025-04-15,cliente104@email.com
+MARIA SOUZA,822.761.648-65,11 91234-5678,1981-01-01,MG,"R$ 2.804,30",7,2025-04-25,cliente114@email.com
+   fernanda lima ,858.901.875-68,91234-5678,16-02-1980,S.Paulo,"R$ 4.033,88",7,2025-10-28,cliente300@email.com
+MARIA SOUZA  ,771.562.691-63,(11) 91234-5678,03/12/1980,São Paulo,"R$ 2.540,24",5,2025-04-03,cliente92@email.com
+ANA paula,593.297.709-74,11 91234-5678,21-07-1980,SP,"R$ 1.517,02",6,2026-02-16,cliente411@email.com
+Carlos José  ,900.201.524-17,11 91234-5678,30/11/1980,São Paulo,"R$ 808,75",5,2025-03-31,cliente89@email.com
+  joão silva ,757.423.772-45,(11) 91234-5678,09/05/1980,São Paulo,"R$ 1.757,75",5,2026-06-13,cliente528@email.com
+MARIA SOUZA  ,988.448.550-22,11912345678,1980-07-26,SP,"R$ 2.331,86",1,2027-01-05,cliente734@email.com
+Carlos José,213.868.157-35,(11) 91234-5678,22-03-1980,ES,"R$ 2.276,04",12,2027-01-14,cliente743@email.com
+  joão silva  ,482.632.399-20,(11) 91234-5678,13-01-1981,RJ,"R$ 1.024,04",8,2026-07-30,cliente575@email.com
+MARIA SOUZA  ,273.658.626-28,(11) 91234-5678,02/06/1980,S.Paulo,"R$ 3.770,80",3,2026-05-13,cliente497@email.com
+Carlos José,581.827.579-74,91234-5678,15-01-1980,Rio de Janeiro,"R$ 2.487,47",7,2026-05-10,cliente494@email.com
+Pedro  Santos ,684.498.916-97,11 91234-5678,1980-10-17,RJ,"R$ 3.148,88",4,2025-01-12,cliente11@email.com
+Carlos José ,653.927.567-79,(11) 91234-5678,29-05-1980,Minas Gerais,"R$ 3.783,36",6,2026-03-10,cliente433@email.com
+Pedro  Santos,766.521.799-16,11 91234-5678,26/11/1980,Espírito Santo,1440.07,5,2025-02-13,cliente43@email.com
+Carlos José,915.780.880-54,91234-5678,23-02-1980,Espírito Santo,"R$ 3.632,45",5,2025-02-12,cliente41@email.com
+ANA paula  ,753.152.403-78,11 91234-5678,05/04/1980,Espírito Santo,"R$ 2.858,47",500,2025-06-17,cliente167@email.com
+Carlos José,663.201.315-63,(11) 91234-5678,1980-04-09,Minas Gerais,"R$ 1.328,83",2,2026-12-05,cliente703@email.com
+Carlos José,775.646.293-72,(11) 91234-5678,10/07/1980,RJ,"R$ 4.399,49",4,2026-09-06,cliente613@email.com
+MARIA SOUZA,941.952.616-11,(11) 91234-5678,04-02-1980,Espírito Santo,"R$ 2.182,32",5,2026-02-17,cliente412@email.com
+   fernanda lima ,927.704.572-42,11 91234-5678,15-02-1980,MG,"R$ 2.942,09",4,2025-06-28,cliente178@email.com
+Carlos José  ,183.212.836-85,(11) 91234-5678,31/02/2000,ES,"R$ 1.903,78",3,2026-06-15,cliente530@email.com
+Pedro  Santos,367.518.334-74,(11) 91234-5678,19-11-1980,ES,"R$ 2.380,23",5,2026-06-24,cliente539@email.com
+  joão silva ,175.810.242-30,11912345678,12-11-1980,SP,"R$ 3.398,15",3,2025-06-27,cliente177@email.com
+ANA paula  ,373.102.127-79,11912345678,1980-07-11,Minas Gerais,"R$ 468,23",5,2026-10-28,cliente665@email.com
+MARIA SOUZA ,184.416.311-12,(11) 91234-5678,1980-07-21,SP,"R$ 3.898,67",10,2027-02-06,cliente766@email.com
+ANA paula ,774.677.958-11,11912345678,1980-01-11,S.Paulo,"R$ 3.068,07",6,2025-09-15,cliente257@email.com
+MARIA SOUZA  ,749.779.490-47,(11) 91234-5678,1980-08-02,Espírito Santo,"R$ 2.621,42",6,2027-02-05,cliente765@email.com
+ANA paula  ,895.376.537-27,11 91234-5678,23-12-1980,S.Paulo,"R$ 3.023,20",6,2026-06-28,cliente543@email.com
+ANA paula,161.944.325-34,(11) 91234-5678,1980-09-07,Rio de Janeiro,"R$ 3.948,81",5,2025-01-16,cliente15@email.com
+Carlos José,240.373.515-48,11912345678,1980-08-16,Rio de Janeiro,"R$ 3.530,98",3,2025-01-04,cliente3@email.com
+Pedro  Santos  ,706.562.506-97,(11) 91234-5678,1980-07-28,Minas Gerais,"R$ 1.146,98",7,2025-12-02,cliente335@email.com
+Pedro  Santos ,625.172.498-30,nan,1980-12-31,Minas Gerais,"R$ 2.233,14",3,2025-09-14,cliente256@email.com
+MARIA SOUZA  ,203.313.860-33,11912345678,20-06-1980,Rio de Janeiro,"R$ 3.925,98",-10,2026-08-04,cliente580@email.com
+Carlos José,636.230.452-77,11 91234-5678,12/08/1980,MG,"R$ 4.363,38",5,2026-03-22,cliente445@email.com
+Carlos José,520.800.452-65,11912345678,1980-04-04,São Paulo,"R$ 3.218,66",2,2025-12-05,cliente338@email.com
+Pedro  Santos  ,272.426.817-72,11912345678,29/07/1980,SP,"R$ 3.223,28",8,2026-04-24,cliente478@email.com
+MARIA SOUZA ,710.803.342-72,11912345678,11-07-1980,São Paulo,"R$ 5.022,59",2,2026-02-22,cliente417@email.com
+MARIA SOUZA ,972.815.660-88,(11) 91234-5678,1980-09-07,S.Paulo,"R$ 4.959,84",5,2026-10-01,cliente638@email.com
+Pedro  Santos ,192.619.527-42,11 91234-5678,04/05/1980,S.Paulo,"R$ 3.075,58",7,2026-12-16,cliente714@email.com
+Pedro  Santos,513.824.271-41,11912345678,1980-08-16,ES,"R$ 2.496,43",8,2025-11-21,cliente324@email.com
+MARIA SOUZA ,372.936.719-20,(11) 91234-5678,17/03/1980,Espírito Santo,"R$ 3.278,80",1,2026-04-03,cliente457@email.com
+Carlos José ,475.769.423-27,(11) 91234-5678,02/12/1980,SP,"R$ 5.549,01",7,2025-01-10,cliente9@email.com
+ANA paula ,801.506.765-77,11 91234-5678,28/03/1980,MG,"R$ 2.294,23",4,2025-09-07,cliente249@email.com
+ANA paula ,826.788.620-29,11912345678,20-07-1980,RJ,"R$ 2.924,13",8,2025-01-23,cliente22@email.com
+Carlos José,401.630.679-51,11912345678,26-03-1980,S.Paulo,"R$ 1.658,94",7,2025-08-10,cliente221@email.com
+Pedro  Santos ,946.140.162-32,(11) 91234-5678,19-08-1980,Espírito Santo,"R$ 822,03",13,2026-07-02,cliente547@email.com
+Carlos José  ,715.294.588-38,11912345678,25-02-1980,SP,"R$ 4.315,51",6,2026-11-22,cliente690@email.com
+  joão silva ,293.203.882-48,(11) 91234-5678,1980-05-31,Rio de Janeiro,"R$ 3.327,81",4,2027-02-24,cliente784@email.com
+MARIA SOUZA,906.420.332-39,(11) 91234-5678,1980-12-15,Espírito Santo,"R$ 2.673,33",3,2026-09-19,cliente626@email.com
+  joão silva  ,207.466.380-17,11912345678,28/07/1980,ES,"R$ 2.799,36",8,2025-12-07,cliente340@email.com
+   fernanda lima,152.685.657-22,11912345678,02-07-1980,SP,"R$ 3.258,77",8,2026-11-03,cliente671@email.com
+   fernanda lima,461.658.990-22,11912345678,1980-01-20,SP,"R$ 4.071,08",6,2025-07-23,cliente203@email.com
+ANA paula  ,732.154.111-26,11 91234-5678,1981-01-03,São Paulo,4784.30,5,2025-08-26,cliente237@email.com
+  joão silva ,185.191.759-42,(11) 91234-5678,1980-12-08,sp,"R$ 3.543,39",3,2025-04-04,cliente93@email.com
+Pedro  Santos ,477.854.754-50,(11) 91234-5678,1981-01-09,sp,"R$ 2.932,13",6,2026-06-16,cliente531@email.com
+Carlos José  ,261.769.693-28,(11) 91234-5678,1980-02-04,São Paulo,"R$ 5.381,71",2,2025-12-29,cliente362@email.com
+   fernanda lima  ,519.710.528-82,11912345678,30-01-1980,Rio de Janeiro,"R$ 4.351,02",7,2026-06-29,cliente544@email.com
+  joão silva  ,840.697.744-64,11912345678,01/01/1980,São Paulo,"R$ 2.726,27",3,2025-10-12,cliente283@email.com
+  joão silva  ,764.111.232-57,(11) 91234-5678,13-04-1980,S.Paulo,"R$ 1.968,03",3,2025-07-04,cliente184@email.com
+Pedro  Santos  ,570.317.927-98,(11) 91234-5678,1980-11-13,RJ,"R$ 4.021,62",9,2026-10-12,cliente649@email.com
+Pedro  Santos ,632.295.789-42,11 91234-5678,1980-03-08,ES,"R$ 3.179,91",6,2026-02-01,cliente396@email.com
+Carlos José  ,225.316.405-38,11912345678,1980-02-26,Rio de Janeiro,"R$ 2.951,03",1000,2025-06-03,cliente153@email.com
+Carlos José,623.885.370-89,11 91234-5678,27-01-1980,S.Paulo,4178.65,5,2025-03-17,cliente75@email.com
+ANA paula  ,376.255.859-71,(11) 91234-5678,16/05/1980,MG,"R$ 2.830,88",2,2026-03-30,cliente453@email.com
+  joão silva,533.430.242-41,11 91234-5678,16/07/1980,MG,1542.07,9,2026-11-27,cliente695@email.com
+MARIA SOUZA,871.714.651-26,(11) 91234-5678,1980-01-07,sp,"R$ 3.816,84",4,2025-10-05,cliente277@email.com
+MARIA SOUZA  ,786.183.121-84,91234-5678,28/06/1980,MG,"R$ 2.481,75",3,2025-03-10,cliente68@email.com
+MARIA SOUZA ,440.856.803-71,11912345678,12/06/1980,São Paulo,"R$ 1.367,99",7,2026-05-30,cliente514@email.com
+Pedro  Santos  ,120.506.718-89,11912345678,20/12/1980,RJ,"R$ 1.763,86",8,2025-07-08,cliente188@email.com
+ANA paula ,616.566.877-98,11 91234-5678,1980-12-23,RJ,"R$ 1.595,76",6,2025-09-29,cliente271@email.com
+Carlos José ,307.717.545-39,11 91234-5678,1981-01-06,Espírito Santo,"R$ 3.334,44",3,2025-08-25,cliente236@email.com
+Carlos José,643.110.400-98,11 91234-5678,25-04-1980,São Paulo,"R$ 4.096,55",6,2025-03-30,cliente88@email.com
+Pedro  Santos,976.680.962-62,11 91234-5678,1980-10-18,MG,"R$ 3.418,76",3,2027-02-02,cliente762@email.com
+ANA paula ,192.306.452-16,(11) 91234-5678,13/12/1980,Rio de Janeiro,"R$ 3.503,09",1,2025-04-28,cliente117@email.com
+ANA paula,742.336.629-49,11912345678,09/10/1980,SP,"R$ 4.119,24",3,2025-05-06,cliente125@email.com
+ANA paula ,199.130.997-25,11912345678,1980-12-19,Espírito Santo,"R$ 3.165,40",6,2026-10-23,cliente660@email.com
+ANA paula,263.564.596-69,11912345678,1980-03-11,Rio de Janeiro,"R$ 3.843,84",14,2025-10-17,cliente289@email.com
+MARIA SOUZA ,499.747.614-25,11912345678,07/08/1980,MG,"R$ 2.006,41",6,2025-08-27,cliente238@email.com
+ANA paula  ,115.592.525-75,11 91234-5678,1980-04-15,SP,"R$ 3.685,59",1000,2025-01-01,cliente0@email.com
+Carlos José  ,979.274.208-64,11912345678,05-06-1980,MG,"R$ 3.298,45",3,2027-03-03,cliente791@email.com
+ANA paula  ,213.579.121-95,11912345678,1981-01-21,MG,"R$ 3.755,67",6,2026-08-26,cliente602@email.com
+  joão silva,963.227.551-27,(11) 91234-5678,16/04/1980,RJ,"R$ 5.084,71",7,2027-03-06,cliente794@email.com
+MARIA SOUZA  ,290.632.326-66,11912345678,1980-02-07,MG,"R$ 2.148,34",7,2026-04-11,cliente465@email.com
+  joão silva,200.458.479-61,(11) 91234-5678,1980-12-02,RJ,"R$ 1.619,40",5,2025-10-06,cliente278@email.com
+Carlos José ,731.993.666-36,(11) 91234-5678,31/02/2000,São Paulo,"R$ 3.293,54",8,2026-09-17,cliente624@email.com
+  joão silva ,813.854.134-70,11 91234-5678,27/07/1980,São Paulo,"R$ 2.948,48",7,2025-04-27,cliente116@email.com
+ANA paula ,329.811.661-76,(11) 91234-5678,16-05-1980,sp,"R$ 1.821,08",10,2025-08-17,cliente228@email.com
+Carlos José,593.604.574-77,(11) 91234-5678,01-02-1980,Rio de Janeiro,"R$ 3.113,39",3,2027-01-27,cliente756@email.com
+   fernanda lima  ,977.983.313-24,(11) 91234-5678,1980-10-01,RJ,"R$ 3.272,42",8,2026-02-25,cliente420@email.com
+ANA paula  ,367.485.874-89,(11) 91234-5678,1980-06-21,ES,"R$ 1.529,51",7,2026-03-11,cliente434@email.com
+ANA paula ,182.198.248-82,11 91234-5678,1980-08-31,sp,"R$ 4.673,36",4,2025-10-02,cliente274@email.com
+Carlos José ,775.751.958-11,11 91234-5678,1980-02-13,Espírito Santo,"R$ 3.273,01",5,2025-11-15,cliente318@email.com
+MARIA SOUZA  ,106.295.520-65,11 91234-5678,09/07/1980,ES,"R$ 3.149,34",2,2026-07-06,cliente551@email.com
+Pedro  Santos ,596.731.655-65,11912345678,12/01/1980,sp,"R$ 2.778,96",7,2025-05-25,cliente144@email.com
+MARIA SOUZA ,790.520.500-67,(11) 91234-5678,1980-08-15,sp,"R$ 2.588,98",-5,2026-10-11,cliente648@email.com
+ANA paula,272.109.839-18,(11) 91234-5678,02-06-1980,RJ,"R$ 3.193,38",5,2027-01-06,cliente735@email.com
+  joão silva,461.107.577-74,(11) 91234-5678,08/10/1980,RJ,"R$ 3.273,12",9,2026-12-28,cliente726@email.com
+  joão silva ,921.784.658-21,(11) 91234-5678,13/06/1980,Espírito Santo,"R$ 2.979,90",5,2026-08-09,cliente585@email.com
+ANA paula  ,212.282.580-27,(11) 91234-5678,25-03-1980,S.Paulo,"R$ 1.921,49",4,2026-01-05,cliente369@email.com
+   fernanda lima ,642.945.631-27,11 91234-5678,02/04/1980,Rio de Janeiro,"R$ 2.519,35",5,2025-09-26,cliente268@email.com
+ANA paula  ,300.468.896-86,(11) 91234-5678,09-08-1980,RJ,"R$ 4.118,55",3,2026-07-22,cliente567@email.com
+MARIA SOUZA  ,116.744.247-30,(11) 91234-5678,1980-06-06,S.Paulo,"R$ 3.325,58",2,2025-11-04,cliente307@email.com
+Pedro  Santos,598.639.662-67,11 91234-5678,1980-10-18,RJ,"R$ 3.518,10",8,2025-11-07,cliente310@email.com
+  joão silva,824.827.325-95,(11) 91234-5678,19-02-1980,SP,"R$ 2.081,79",4,2026-03-28,cliente451@email.com
+MARIA SOUZA  ,493.771.462-62,11912345678,1980-05-23,RJ,"R$ 3.227,50",4,2025-02-16,cliente46@email.com
+  joão silva  ,665.111.308-87,11 91234-5678,01-02-1981,São Paulo,"R$ 2.958,71",2,2025-12-16,cliente349@email.com
+Carlos José,924.217.912-42,11912345678,16/01/1980,S.Paulo,"R$ 3.399,32",7,2026-01-07,cliente371@email.com
+ANA paula,208.367.544-42,11912345678,27/06/1980,Rio de Janeiro,"R$ 1.502,55",3,2026-06-08,cliente523@email.com
+MARIA SOUZA  ,263.194.881-74,11 91234-5678,01/01/1981,MG,"R$ 3.078,12",3,2025-09-19,cliente261@email.com
+Pedro  Santos ,747.243.205-45,11912345678,1980-04-04,Rio de Janeiro,"R$ 2.313,28",5,2025-07-15,cliente195@email.com
+Carlos José,988.267.438-74,11912345678,1980-08-04,sp,"R$ 2.440,45",4,2027-03-11,cliente799@email.com
+Pedro  Santos,776.201.891-11,(11) 91234-5678,16-07-1980,RJ,"R$ 4.195,53",4,2026-11-04,cliente672@email.com
+Pedro  Santos ,994.614.226-50,11912345678,1980-05-09,Minas Gerais,"R$ 3.434,50",2,2025-04-18,cliente107@email.com
+ANA paula  ,369.803.786-38,11912345678,31/02/2000,sp,"R$ 1.982,24",7,2025-03-01,cliente59@email.com
+Pedro  Santos,246.674.905-76,(11) 91234-5678,1980-09-27,São Paulo,"R$ 2.366,77",0,2026-08-23,cliente599@email.com
+   fernanda lima  ,465.857.886-41,11 91234-5678,30-05-1980,MG,"R$ 3.659,05",8,2026-03-16,cliente439@email.com
+Carlos José,734.108.873-82,11 91234-5678,04-04-1980,Espírito Santo,"R$ 3.082,83",6,2025-04-11,cliente100@email.com
+Carlos José  ,182.721.998-51,11912345678,08-08-1980,São Paulo,"R$ 3.540,29",6,2026-04-23,cliente476@email.com
+  joão silva ,679.966.351-57,(11) 91234-5678,26/08/1980,RJ,"R$ 1.954,47",9,2026-12-20,cliente718@email.com
+Carlos José ,712.263.985-28,91234-5678,07/01/1981,SP,"R$ 3.655,89",7,2026-08-07,cliente583@email.com
+MARIA SOUZA  ,645.598.228-41,11912345678,08/12/1980,sp,"R$ 3.015,68",3,2027-01-08,cliente737@email.com
+  joão silva,404.835.596-44,11912345678,13/02/1980,Espírito Santo,"R$ 2.264,88",6,2025-06-29,cliente179@email.com
+Carlos José,200.107.944-81,11912345678,1980-10-30,S.Paulo,"R$ 2.875,71",8,2025-11-01,cliente304@email.com
+Pedro  Santos,808.406.878-21,11912345678,06-05-1980,ES,"R$ 5.587,91",3,2026-03-06,cliente429@email.com
+Carlos José ,361.829.382-17,(11) 91234-5678,07-07-1980,Espírito Santo,"R$ 3.034,03",6,2026-05-23,cliente507@email.com
+Carlos José ,405.641.801-34,91234-5678,10/02/1980,Minas Gerais,"R$ 4.038,61",4,2027-02-10,cliente770@email.com
+   fernanda lima,297.584.856-68,11912345678,1980-02-29,MG,"R$ 3.683,22",7,2025-05-30,cliente149@email.com
+Pedro  Santos ,854.470.285-21,11912345678,13-07-1980,Minas Gerais,"R$ 2.060,54",6,2025-05-05,cliente124@email.com
+Pedro  Santos ,507.946.121-39,11912345678,1980-04-09,RJ,4789.23,6,2026-09-27,cliente634@email.com
+  joão silva ,670.189.591-80,11912345678,19-01-1981,SP,"R$ 3.952,46",5,2026-11-29,cliente697@email.com
+ANA paula,392.399.839-24,(11) 91234-5678,24-07-1980,Rio de Janeiro,1734.32,3,2025-07-05,cliente185@email.com
+Carlos José  ,673.148.226-34,11 91234-5678,04-02-1980,RJ,"R$ 4.684,52",4,2026-06-26,cliente541@email.com
+   fernanda lima ,212.332.116-69,11912345678,22-01-1981,São Paulo,2825.27,4,2025-02-20,cliente50@email.com
+ANA paula,731.226.354-64,11 91234-5678,17/12/1980,Espírito Santo,"R$ 1.253,10",3,2026-05-03,cliente487@email.com
+Pedro  Santos  ,361.439.407-12,11 91234-5678,17/01/1980,MG,"R$ 3.864,82",4,2027-03-01,cliente789@email.com
+Carlos José,807.167.875-11,91234-5678,13/05/1980,ES,"R$ 3.217,80",5,2026-05-01,cliente485@email.com
+  joão silva  ,621.882.372-49,11912345678,1980-12-22,SP,"R$ 3.016,03",5,2025-11-18,cliente321@email.com
+   fernanda lima  ,310.200.797-13,(11) 91234-5678,29/05/1980,ES,"R$ 2.571,35",4,2025-12-20,cliente353@email.com
+ANA paula ,503.728.705-44,(11) 91234-5678,17/06/1980,ES,"R$ 4.023,06",8,2027-01-10,cliente739@email.com
+ANA paula  ,383.220.206-46,(11) 91234-5678,1980-06-08,Espírito Santo,"R$ 3.564,84",5,2025-05-23,cliente142@email.com
+Carlos José ,930.727.212-56,11912345678,14-02-1980,São Paulo,"R$ 2.824,71",3,2026-01-06,cliente370@email.com
+MARIA SOUZA  ,612.412.675-93,11 91234-5678,1980-12-01,Espírito Santo,"R$ 2.852,79",7,2025-05-22,cliente141@email.com
+Carlos José  ,571.754.298-30,(11) 91234-5678,1981-01-26,MG,"R$ 2.157,57",3,2026-02-04,cliente399@email.com
+Pedro  Santos  ,998.582.124-22,11912345678,23/02/1980,Espírito Santo,"R$ 3.201,65",3,2025-09-21,cliente263@email.com
+Pedro  Santos ,450.387.387-20,(11) 91234-5678,1980-04-04,Espírito Santo,"R$ 2.908,04",5,2025-11-17,cliente320@email.com
+ANA paula ,206.325.924-50,(11) 91234-5678,18/01/1980,São Paulo,"R$ 2.173,89",7,2025-01-20,cliente19@email.com
+   fernanda lima  ,588.423.709-13,11 91234-5678,28-05-1980,Espírito Santo,"R$ 3.076,61",6,2025-06-22,cliente172@email.com
+Carlos José,551.530.892-82,91234-5678,30/06/1980,SP,"R$ 1.724,32",2,2026-10-16,cliente653@email.com
+  joão silva  ,419.237.649-90,(11) 91234-5678,11-09-1980,sp,"R$ 2.130,71",3,2025-11-09,cliente312@email.com
+  joão silva  ,441.319.262-64,11912345678,1980-10-10,São Paulo,"R$ 1.943,97",7,2026-01-26,cliente390@email.com
+ANA paula  ,365.414.814-50,11 91234-5678,01/01/1980,ES,"R$ 260,86",3,2027-01-16,cliente745@email.com
+   fernanda lima,239.286.904-70,(11) 91234-5678,1980-07-11,SP,2626.55,5,2025-01-13,cliente12@email.com
+   fernanda lima,388.692.763-70,(11) 91234-5678,23-06-1980,Minas Gerais,"R$ 3.423,89",4,2026-02-12,cliente407@email.com
+   fernanda lima,672.453.127-67,11912345678,16-03-1980,RJ,3175.51,4,2026-02-13,cliente408@email.com
+MARIA SOUZA ,604.186.142-10,11912345678,08/02/1980,sp,"R$ 2.788,62",5,2025-11-02,cliente305@email.com
+Carlos José  ,722.480.231-29,11912345678,02/08/1980,ES,"R$ 4.029,44",4,2025-12-21,cliente354@email.com
+Carlos José ,315.102.259-22,(11) 91234-5678,06-01-1981,Espírito Santo,"R$ 2.963,67",4,2025-01-26,cliente25@email.com
+Carlos José ,939.215.948-90,11912345678,30-11-1980,S.Paulo,"R$ 2.939,96",7,2026-08-21,cliente597@email.com
+ANA paula  ,803.674.684-42,11912345678,20-10-1980,Espírito Santo,"R$ 3.733,55",5,2025-06-19,cliente169@email.com
+ANA paula  ,958.848.388-15,(11) 91234-5678,1980-07-27,RJ,"R$ 3.993,78",6,2025-02-08,cliente38@email.com
+MARIA SOUZA  ,740.443.921-80,(11) 91234-5678,30/01/1981,ES,"R$ 5.042,18",7,2025-06-25,cliente175@email.com
+Pedro  Santos,903.580.762-75,(11) 91234-5678,1980-12-23,SP,"R$ 3.505,02",5,2025-09-03,cliente245@email.com
+   fernanda lima  ,128.196.109-67,11 91234-5678,04/06/1980,sp,2532.66,5,2025-10-26,cliente298@email.com
+Pedro  Santos,351.334.326-22,(11) 91234-5678,29/11/1980,São Paulo,"R$ 3.135,56",6,2026-10-31,cliente668@email.com
+  joão silva  ,443.393.670-19,(11) 91234-5678,03/08/1980,MG,"R$ 1.373,00",4,2026-02-21,cliente416@email.com
+MARIA SOUZA,459.174.659-41,11 91234-5678,1980-03-12,S.Paulo,"R$ 2.300,59",3,2026-07-03,cliente548@email.com
+MARIA SOUZA ,741.481.878-59,11912345678,16/02/1980,RJ,4888.21,4,2025-09-30,cliente272@email.com
+Pedro  Santos ,648.240.843-17,11 91234-5678,11/01/1981,São Paulo,"R$ 1.891,89",7,2026-09-04,cliente611@email.com
+ANA paula  ,284.138.322-65,(11) 91234-5678,12/07/1980,Rio de Janeiro,"R$ 3.711,41",5,2025-06-04,cliente154@email.com
+   fernanda lima  ,120.836.966-35,(11) 91234-5678,1980-06-30,RJ,"R$ 2.705,54",3,2025-05-07,cliente126@email.com
+   fernanda lima,310.671.476-20,11 91234-5678,29-10-1980,RJ,"R$ 3.456,69",4,2026-03-26,cliente449@email.com
+  joão silva  ,773.464.953-62,(11) 91234-5678,27/01/1981,São Paulo,"R$ 3.876,17",6,2026-07-26,cliente571@email.com
+ANA paula  ,461.285.755-81,11912345678,07/04/1980,SP,"R$ 3.367,51",5,2025-12-08,cliente341@email.com
+ANA paula,685.107.607-50,(11) 91234-5678,1980-06-16,ES,"R$ 1.800,27",5,2026-03-07,cliente430@email.com
+Pedro  Santos  ,164.112.312-94,11912345678,31/02/2000,MG,"R$ 3.097,83",4,2025-10-15,cliente287@email.com
+Carlos José,387.406.911-91,11 91234-5678,06-12-1980,Minas Gerais,"R$ 1.610,70",5,2025-04-24,cliente113@email.com
+ANA paula  ,331.632.918-47,(11) 91234-5678,08/04/1980,S.Paulo,"R$ 3.427,81",3,2026-05-15,cliente499@email.com
+   fernanda lima,588.423.709-13,(11) 91234-5678,18-08-1980,São Paulo,"R$ 2.488,24",4,2025-06-23,cliente173@email.com
+ANA paula,615.320.625-12,11 91234-5678,02-05-1980,sp,"R$ 2.489,84",3,2025-12-26,cliente359@email.com
+Carlos José,419.772.475-61,11912345678,01-12-1980,Espírito Santo,"R$ 3.198,39",2,2026-04-28,cliente482@email.com
+ANA paula  ,500.985.804-31,11912345678,03/03/1980,S.Paulo,"R$ 3.603,79",6,2025-02-27,cliente57@email.com
+Carlos José  ,106.295.520-65,(11) 91234-5678,07-01-1980,Espírito Santo,"R$ 1.588,94",5,2026-07-07,cliente551@email.com
+  joão silva  ,387.266.720-45,(11) 91234-5678,1980-12-30,Rio de Janeiro,"R$ 3.743,65",2,2025-08-11,cliente222@email.com
+ANA paula,330.789.162-72,(11) 91234-5678,17/05/1980,São Paulo,"R$ 2.742,38",4,2025-10-08,cliente280@email.com
+   fernanda lima,683.759.960-72,(11) 91234-5678,11-11-1980,RJ,"R$ 2.858,47",4,2025-01-18,cliente17@email.com
+Pedro  Santos,619.199.851-96,(11) 91234-5678,1980-10-31,MG,"R$ 4.452,76",5,2025-05-08,cliente127@email.com
+  joão silva ,501.282.764-68,(11) 91234-5678,1980-09-05,RJ,2354.22,6,2025-11-19,cliente322@email.com
+Pedro  Santos ,166.947.106-61,11912345678,31-10-1980,SP,"R$ 1.878,25",6,2025-09-13,cliente255@email.com
+MARIA SOUZA,449.395.357-90,11912345678,13/11/1980,São Paulo,"R$ 2.413,58",9,2026-06-23,cliente538@email.com
+  joão silva,702.453.987-55,11 91234-5678,31/02/2000,Espírito Santo,"R$ 2.194,90",5,2026-04-16,cliente470@email.com
+Pedro  Santos ,980.836.963-81,(11) 91234-5678,10-03-1980,SP,"R$ 2.398,06",4,2026-08-22,cliente598@email.com
+   fernanda lima  ,306.309.214-15,(11) 91234-5678,07-01-1981,São Paulo,"R$ 2.727,59",7,2026-04-14,cliente468@email.com
+MARIA SOUZA  ,943.137.610-45,11912345678,24-06-1980,sp,"R$ 3.659,53",6,2027-02-08,cliente768@email.com
+Pedro  Santos ,892.903.814-60,11 91234-5678,08-07-1980,Espírito Santo,"R$ 3.731,00",5,2025-07-10,cliente190@email.com
+MARIA SOUZA ,972.158.742-37,11912345678,30-01-1981,RJ,"R$ 4.060,09",5,2025-04-26,cliente115@email.com
+Carlos José ,443.648.916-50,nan,14/03/1980,Espírito Santo,"R$ 1.192,96",4,2026-06-01,cliente516@email.com
+Pedro  Santos ,835.672.221-30,nan,1980-06-10,São Paulo,1450.44,3,2026-12-11,cliente709@email.com
+Pedro  Santos  ,476.650.639-12,11912345678,05/12/1980,sp,"R$ 750,57",8,2026-06-20,cliente535@email.com
+ANA paula,813.341.964-11,(11) 91234-5678,15/03/1980,Rio de Janeiro,"R$ 3.003,15",3,2025-04-05,cliente94@email.com
+  joão silva,404.835.596-44,11912345678,1980-06-17,Espírito Santo,"R$ 2.814,08",7,2025-06-30,cliente179@email.com
+  joão silva,825.299.178-26,11 91234-5678,05-07-1980,Espírito Santo,"R$ 2.592,54",2,2025-10-29,cliente301@email.com
+ANA paula ,454.683.870-23,(11) 91234-5678,1980-11-05,RJ,"R$ 1.963,69",4,2026-09-09,cliente616@email.com
+  joão silva,861.886.264-94,11 91234-5678,10-02-1980,MG,"R$ 2.908,92",4,2026-08-05,cliente581@email.com
+   fernanda lima,765.403.719-61,11912345678,1980-04-08,Minas Gerais,"R$ 3.107,06",6,2026-08-14,cliente590@email.com
+ANA paula  ,354.270.827-51,(11) 91234-5678,1980-02-24,Espírito Santo,"R$ 2.625,47",4,2027-01-02,cliente731@email.com
+Pedro  Santos ,487.724.976-59,(11) 91234-5678,1980-12-02,São Paulo,"R$ 1.812,23",7,2026-07-13,cliente558@email.com
+Carlos José  ,772.521.837-24,(11) 91234-5678,22-11-1980,Minas Gerais,"R$ 2.027,24",3,2026-12-10,cliente708@email.com
+Carlos José  ,378.507.604-47,11912345678,26/09/1980,Minas Gerais,"R$ 3.842,30",5,2026-06-27,cliente542@email.com
+MARIA SOUZA ,344.847.796-25,(11) 91234-5678,21-04-1980,São Paulo,"R$ 2.470,53",3,2025-01-06,cliente5@email.com
+Carlos José  ,990.297.100-32,(11) 91234-5678,30/12/1980,S.Paulo,"R$ 3.952,48",500,2027-02-25,cliente785@email.com
+  joão silva ,232.846.656-67,11 91234-5678,1980-07-05,Espírito Santo,"R$ 4.609,52",4,2025-02-15,cliente45@email.com
+Pedro  Santos,549.346.619-22,11912345678,13-02-1980,Minas Gerais,"R$ 3.691,62",8,2026-12-27,cliente725@email.com
+Pedro  Santos  ,483.737.912-61,11 91234-5678,24/12/1980,ES,"R$ 2.151,93",8,2025-06-07,cliente157@email.com
+Pedro  Santos,303.293.780-33,(11) 91234-5678,17/12/1980,MG,"R$ 4.768,17",6,2026-08-29,cliente605@email.com
+ANA paula ,684.856.688-40,11912345678,02-05-1980,ES,"R$ 2.762,32",5,2025-06-21,cliente171@email.com
+   fernanda lima ,810.663.871-68,(11) 91234-5678,03/01/1980,São Paulo,"R$ 3.130,69",4,2025-01-17,cliente16@email.com
+MARIA SOUZA ,923.788.752-70,11 91234-5678,26-04-1980,sp,"R$ 4.162,26",6,2026-05-27,cliente511@email.com
+  joão silva  ,817.688.623-48,11912345678,1980-08-26,RJ,"R$ 2.177,92",5,2025-02-18,cliente48@email.com
+  joão silva  ,603.121.312-63,11 91234-5678,1980-11-08,São Paulo,"R$ 2.831,62",3,2027-02-14,cliente774@email.com
+   fernanda lima ,989.370.520-10,(11) 91234-5678,02-03-1980,São Paulo,"R$ 3.458,99",7,2027-01-28,cliente757@email.com
+MARIA SOUZA ,497.219.536-70,11 91234-5678,24/11/1980,São Paulo,"R$ 4.084,20",0,2026-04-26,cliente480@email.com
+Pedro  Santos ,840.697.744-64,11 91234-5678,03/11/1980,Rio de Janeiro,"R$ 2.316,37",1,2025-10-11,cliente283@email.com
+  joão silva ,183.553.766-11,91234-5678,01-08-1980,RJ,"R$ 3.608,74",8,2026-06-21,cliente536@email.com
+   fernanda lima  ,524.807.880-58,(11) 91234-5678,11-12-1980,SP,"R$ 4.607,58",9,2025-08-14,cliente225@email.com
+ANA paula ,219.992.188-82,11 91234-5678,30/01/1980,Espírito Santo,"R$ 3.146,94",6,2025-01-27,cliente26@email.com
+Carlos José,122.643.545-83,(11) 91234-5678,14/04/1980,S.Paulo,"R$ 2.626,63",5,2026-09-23,cliente630@email.com
+Carlos José  ,319.228.619-41,(11) 91234-5678,08/10/1980,Minas Gerais,"R$ 3.078,96",8,2026-03-14,cliente437@email.com
+   fernanda lima ,916.418.977-92,11912345678,20/10/1980,Rio de Janeiro,"R$ 4.159,84",7,2025-12-31,cliente364@email.com
+MARIA SOUZA ,911.480.157-12,11912345678,31/02/2000,RJ,"R$ 2.780,33",4,2025-08-18,cliente229@email.com
+Pedro  Santos,422.667.139-49,11912345678,25-01-1981,MG,"R$ 3.967,83",2,2025-02-07,cliente37@email.com
+MARIA SOUZA,604.884.935-57,(11) 91234-5678,1980-11-01,S.Paulo,"R$ 1.220,60",4,2027-02-19,cliente779@email.com
+MARIA SOUZA,658.177.223-84,11912345678,28/11/1980,ES,"R$ 3.290,96",3,2026-01-10,cliente374@email.com
+   fernanda lima ,350.318.506-68,11912345678,12-08-1980,RJ,"R$ 4.233,72",6,2026-04-15,cliente469@email.com
+Carlos José  ,211.510.305-66,(11) 91234-5678,1980-12-09,Rio de Janeiro,"R$ 3.093,16",5,2027-02-11,cliente771@email.com
+   fernanda lima  ,520.233.490-34,(11) 91234-5678,1980-02-11,Espírito Santo,"R$ 2.143,65",3,2026-11-14,cliente682@email.com
+ANA paula  ,730.744.923-93,11 91234-5678,03/11/1980,SP,"R$ 1.944,36",4,2026-11-26,cliente694@email.com
+  joão silva  ,768.850.255-44,11912345678,1980-10-11,São Paulo,"R$ 5.185,09",-5,2025-07-14,cliente194@email.com
+ANA paula ,737.111.627-89,(11) 91234-5678,1980-04-21,MG,4750.82,3,2026-11-16,cliente684@email.com
+  joão silva ,317.615.701-18,(11) 91234-5678,15/01/1981,RJ,"R$ 5.500,90",2,2026-11-25,cliente693@email.com
+Carlos José,678.953.591-75,91234-5678,25-05-1980,São Paulo,"R$ 4.674,86",3,2026-05-19,cliente503@email.com
+   fernanda lima  ,985.839.650-25,11912345678,24/05/1980,sp,"R$ 446,45",5,2027-02-13,cliente773@email.com
+Carlos José  ,412.148.217-63,(11) 91234-5678,07-09-1980,São Paulo,"R$ 3.728,52",4,2026-11-01,cliente669@email.com
+  joão silva ,481.595.478-56,(11) 91234-5678,29/04/1980,ES,"R$ 2.489,01",8,2027-02-12,cliente772@email.com
+Carlos José ,218.317.526-83,11912345678,1980-11-27,S.Paulo,"R$ 3.732,83",3,2025-06-12,cliente162@email.com
+Carlos José ,298.402.426-35,11912345678,05/05/1980,MG,"R$ 3.382,65",3,2027-01-22,cliente751@email.com
+Pedro  Santos  ,341.315.350-52,nan,20-01-1981,Minas Gerais,"R$ 2.342,63",0,2025-06-02,cliente152@email.com
+MARIA SOUZA ,303.585.932-40,11 91234-5678,1980-10-11,MG,"R$ 3.311,49",1,2026-07-12,cliente557@email.com
+ANA paula,478.442.998-51,91234-5678,19/01/1981,ES,4789.71,6,2026-07-27,cliente572@email.com
+Pedro  Santos,879.281.983-33,11912345678,03-01-1981,Espírito Santo,"R$ 3.626,54",9,2026-11-07,cliente675@email.com
+  joão silva ,666.849.455-54,11912345678,16/04/1980,S.Paulo,"R$ 3.969,57",7,2025-04-22,cliente111@email.com
+MARIA SOUZA,927.741.616-53,(11) 91234-5678,26-01-1980,Espírito Santo,"R$ 2.979,44",3,2025-08-15,cliente226@email.com
+   fernanda lima  ,291.164.948-76,11 91234-5678,1980-05-11,S.Paulo,"R$ 2.217,40",4,2027-03-04,cliente792@email.com
+  joão silva  ,789.959.417-93,11912345678,06/12/1980,RJ,"R$ 4.040,06",5,2025-04-14,cliente103@email.com
+MARIA SOUZA,475.843.312-88,11912345678,16-03-1980,sp,"R$ 3.417,47",0,2026-02-26,cliente421@email.com
+Carlos José ,631.253.482-77,91234-5678,1980-05-30,São Paulo,"R$ 2.220,98",7,2026-02-24,cliente419@email.com
+ANA paula ,258.123.503-46,(11) 91234-5678,15-04-1980,Espírito Santo,"R$ 1.970,19",4,2025-04-30,cliente119@email.com
+  joão silva ,685.332.323-72,11 91234-5678,09-10-1980,S.Paulo,"R$ 2.990,16",4,2025-02-23,cliente53@email.com
+Carlos José ,111.589.375-62,11912345678,1980-05-03,ES,"R$ 3.566,77",5,2025-06-01,cliente151@email.com
+ANA paula ,829.404.470-98,11912345678,1980-01-25,S.Paulo,"R$ 2.986,70",2,2026-02-08,cliente403@email.com
+Carlos José,231.890.973-93,(11) 91234-5678,24-04-1980,MG,"R$ 1.257,23",2,2027-01-24,cliente753@email.com
+ANA paula,683.251.819-58,(11) 91234-5678,1980-12-02,ES,"R$ 2.813,32",3,2025-07-27,cliente207@email.com
+Pedro  Santos  ,957.329.932-93,11912345678,14/11/1980,São Paulo,"R$ 1.497,13",7,2026-11-09,cliente677@email.com
+ANA paula  ,672.182.222-25,11912345678,1980-03-29,RJ,"R$ 2.963,41",5,2026-09-11,cliente618@email.com
+Pedro  Santos,788.102.528-23,11 91234-5678,05-04-1980,ES,"R$ 375,18",2,2025-01-09,cliente8@email.com
+MARIA SOUZA,334.112.200-42,11912345678,27/12/1980,Minas Gerais,"R$ 5.082,66",9,2026-10-14,cliente651@email.com
+   fernanda lima,400.323.417-67,11 91234-5678,01/08/1980,RJ,"R$ 2.318,62",4,2025-02-06,cliente36@email.com
+Pedro  Santos  ,230.687.575-39,(11) 91234-5678,13-05-1980,MG,"R$ 4.322,74",7,2026-03-29,cliente452@email.com
+Pedro  Santos  ,693.528.902-39,(11) 91234-5678,1980-04-25,RJ,"R$ 2.654,08",4,2025-09-11,cliente253@email.com
+  joão silva,680.515.548-96,(11) 91234-5678,17-01-1980,Espírito Santo,"R$ 3.123,48",4,2025-10-31,cliente303@email.com
+ANA paula ,646.795.385-66,11912345678,1980-09-12,ES,"R$ 3.319,97",500,2026-08-30,cliente606@email.com
+ANA paula,608.372.198-91,(11) 91234-5678,1980-08-06,Espírito Santo,4437.30,4,2026-08-03,cliente579@email.com
+  joão silva  ,586.575.616-90,11912345678,27-07-1980,S.Paulo,"R$ 1.226,03",6,2026-08-11,cliente587@email.com
+  joão silva,209.435.921-61,(11) 91234-5678,26/01/1980,ES,"R$ 3.400,24",5,2025-09-20,cliente262@email.com
+ANA paula  ,228.229.671-57,nan,1981-01-11,São Paulo,"R$ 2.340,96",2,2025-10-25,cliente297@email.com
+   fernanda lima ,941.197.243-60,11 91234-5678,1980-08-25,sp,"R$ 2.587,52",3,2026-02-19,cliente414@email.com
+Carlos José ,936.260.790-87,91234-5678,16-11-1980,MG,"R$ 2.885,20",6,2025-05-31,cliente150@email.com
+ANA paula,570.875.565-21,(11) 91234-5678,1980-10-04,ES,4064.63,4,2026-09-29,cliente636@email.com
+ANA paula  ,689.813.401-22,11912345678,05-04-1980,Rio de Janeiro,"R$ 2.936,43",2,2026-12-14,cliente712@email.com
+  joão silva,778.389.539-37,11912345678,11/02/1980,Espírito Santo,"R$ 3.102,86",7,2026-07-05,cliente550@email.com
+Carlos José ,115.576.161-57,11912345678,17-02-1980,SP,"R$ 2.461,24",-10,2026-05-04,cliente488@email.com
+Carlos José ,741.610.392-29,91234-5678,17/12/1980,RJ,"R$ 5.392,11",5,2025-05-28,cliente147@email.com
+ANA paula  ,719.350.981-87,(11) 91234-5678,1980-07-19,Rio de Janeiro,"R$ 3.192,60",7,2025-05-27,cliente146@email.com
+Pedro  Santos  ,283.119.657-21,(11) 91234-5678,23-01-1981,MG,"R$ 2.313,95",-10,2026-08-12,cliente588@email.com
+ANA paula ,792.190.181-77,11912345678,01-02-1980,sp,"R$ 4.167,51",4,2027-01-13,cliente742@email.com
+ANA paula ,593.800.386-89,11912345678,20-09-1980,SP,"R$ 2.458,99",1,2026-08-25,cliente601@email.com
+Pedro  Santos  ,697.333.701-67,(11) 91234-5678,23-05-1980,Espírito Santo,1037.24,6,2025-12-15,cliente348@email.com
+  joão silva  ,739.290.678-13,11912345678,1980-10-23,Rio de Janeiro,"R$ 4.082,11",4,2026-04-09,cliente463@email.com
+Pedro  Santos ,534.785.212-30,11912345678,15-12-1980,SP,"R$ 2.849,39",7,2025-11-22,cliente325@email.com
+Carlos José,142.442.425-55,(11) 91234-5678,12/02/1980,Espírito Santo,"R$ 4.288,08",7,2025-07-06,cliente186@email.com
+Carlos José,434.517.873-48,(11) 91234-5678,19-06-1980,Minas Gerais,"R$ 2.764,29",6,2025-05-04,cliente123@email.com
+MARIA SOUZA ,132.154.618-66,(11) 91234-5678,1980-01-31,RJ,"R$ 2.388,37",4,2026-11-15,cliente683@email.com
+Carlos José ,786.303.264-58,(11) 91234-5678,1980-03-29,Rio de Janeiro,"R$ 4.635,80",6,2025-05-24,cliente143@email.com
+Carlos José  ,929.780.924-69,11912345678,17/07/1980,Espírito Santo,"R$ 3.220,58",1,2027-02-03,cliente763@email.com
+ANA paula,688.743.189-98,(11) 91234-5678,29-03-1980,sp,"R$ 3.383,17",6,2025-07-17,cliente197@email.com
+   fernanda lima,320.919.519-47,11912345678,31/02/2000,São Paulo,3262.99,3,2025-10-07,cliente279@email.com
+Pedro  Santos,843.326.844-61,(11) 91234-5678,1980-10-18,S.Paulo,"R$ 3.050,23",5,2025-10-21,cliente293@email.com
+ANA paula ,525.765.591-23,(11) 91234-5678,06-10-1980,Rio de Janeiro,"R$ 3.750,87",7,2026-02-05,cliente400@email.com
+   fernanda lima  ,707.716.519-75,11 91234-5678,1980-10-22,ES,2693.43,5,2025-05-03,cliente122@email.com
+   fernanda lima ,549.553.728-35,11912345678,09-10-1980,Rio de Janeiro,"R$ 1.765,49",5,2025-07-03,cliente183@email.com
+  joão silva  ,921.484.271-54,11 91234-5678,16-01-1980,SP,"R$ 3.828,06",1,2025-07-22,cliente202@email.com
+ANA paula ,991.787.718-13,11 91234-5678,31/02/2000,S.Paulo,"R$ 2.358,92",8,2026-03-15,cliente438@email.com
+   fernanda lima,460.440.869-82,11912345678,19-05-1980,RJ,"R$ 3.084,52",5,2025-09-04,cliente246@email.com
+Pedro  Santos,736.778.185-85,11912345678,08/01/1981,São Paulo,"R$ 2.261,30",6,2026-02-20,cliente415@email.com
+Carlos José  ,673.697.545-91,(11) 91234-5678,16-01-1980,SP,"R$ 3.638,68",5,2026-12-13,cliente711@email.com
+  joão silva  ,474.392.936-47,(11) 91234-5678,1980-01-30,RJ,"R$ 2.918,95",6,2025-05-10,cliente129@email.com
+  joão silva  ,181.680.230-96,11912345678,25/09/1980,MG,"R$ 3.972,06",2,2026-02-07,cliente402@email.com
+Carlos José,663.759.259-23,(11) 91234-5678,1980-07-03,SP,"R$ 2.830,15",10,2026-09-25,cliente632@email.com
+  joão silva,394.550.314-87,(11) 91234-5678,01/05/1980,ES,"R$ 2.978,76",6,2026-09-16,cliente623@email.com
+Pedro  Santos ,526.138.692-68,(11) 91234-5678,05/02/1980,Espírito Santo,"R$ 2.001,79",5,2026-12-29,cliente727@email.com
+ANA paula  ,653.473.736-48,11912345678,20/05/1980,Minas Gerais,"R$ 4.046,91",1,2025-08-08,cliente219@email.com
+MARIA SOUZA  ,192.185.143-18,11 91234-5678,03/07/1980,MG,"R$ 2.466,91",3,2026-12-31,cliente729@email.com
+   fernanda lima ,641.746.678-74,(11) 91234-5678,1980-02-03,ES,"R$ 3.110,89",10,2026-09-02,cliente609@email.com
+ANA paula ,863.971.421-64,(11) 91234-5678,06-04-1980,Minas Gerais,"R$ 2.020,07",8,2027-01-03,cliente732@email.com
+  joão silva ,287.784.389-54,nan,27/07/1980,sp,"R$ 2.796,54",4,2026-09-10,cliente617@email.com
+MARIA SOUZA  ,908.281.785-69,(11) 91234-5678,1980-06-19,São Paulo,"R$ 3.600,21",4,2026-01-22,cliente386@email.com
+MARIA SOUZA ,760.852.371-68,(11) 91234-5678,17/12/1980,São Paulo,"R$ 2.673,99",1,2027-02-15,cliente775@email.com
+MARIA SOUZA ,540.192.720-49,(11) 91234-5678,1980-07-09,MG,"R$ 3.375,46",2,2026-05-25,cliente509@email.com
+MARIA SOUZA ,642.945.631-27,11912345678,1980-07-26,S.Paulo,"R$ 3.081,08",5,2025-09-25,cliente267@email.com
+   fernanda lima  ,968.201.852-74,(11) 91234-5678,21/07/1980,sp,"R$ 3.476,65",9,2027-02-21,cliente781@email.com
+ANA paula  ,228.674.208-30,nan,28-12-1980,Espírito Santo,"R$ 3.599,58",6,2026-03-18,cliente441@email.com
+MARIA SOUZA ,523.431.537-85,(11) 91234-5678,18/04/1980,MG,"R$ 2.652,81",1,2026-05-12,cliente496@email.com
+Pedro  Santos,832.730.408-64,11912345678,29-01-1981,sp,"R$ 3.326,86",4,2025-04-23,cliente112@email.com
+Pedro  Santos ,902.453.570-39,(11) 91234-5678,11-02-1980,São Paulo,"R$ 3.200,85",7,2025-08-21,cliente232@email.com
+   fernanda lima,461.540.125-34,(11) 91234-5678,03/10/1980,Espírito Santo,3073.60,2,2026-11-30,cliente698@email.com
+  joão silva  ,833.402.262-28,11912345678,06/01/1981,São Paulo,"R$ 1.593,06",4,2026-08-31,cliente607@email.com
+Pedro  Santos ,851.146.498-79,91234-5678,1980-11-11,ES,"R$ 3.504,29",4,2026-01-09,cliente373@email.com
+Pedro  Santos ,215.363.761-53,(11) 91234-5678,1980-01-11,São Paulo,"R$ 3.100,79",8,2025-08-22,cliente233@email.com
+Pedro  Santos ,277.511.977-62,91234-5678,21-09-1980,S.Paulo,"R$ 4.636,74",2,2026-09-26,cliente633@email.com
+   fernanda lima,866.469.877-30,91234-5678,1981-01-24,SP,"R$ 1.869,82",6,2025-11-14,cliente317@email.com
+Pedro  Santos  ,276.628.709-79,11912345678,05-09-1980,Espírito Santo,"R$ 2.533,24",4,2026-02-15,cliente410@email.com
+MARIA SOUZA ,591.681.780-25,11 91234-5678,05/12/1980,Minas Gerais,"R$ 3.775,12",4,2026-12-19,cliente717@email.com
+Pedro  Santos,156.119.372-80,11 91234-5678,27-09-1980,SP,"R$ 2.669,23",7,2025-12-25,cliente358@email.com
+ANA paula,565.305.887-91,11912345678,02/08/1980,Rio de Janeiro,"R$ 4.028,77",4,2025-09-16,cliente258@email.com
+MARIA SOUZA  ,536.880.632-28,(11) 91234-5678,21-03-1980,Rio de Janeiro,"R$ 3.124,75",3,2026-09-20,cliente627@email.com
+Carlos José  ,254.191.625-80,11 91234-5678,1980-11-01,São Paulo,"R$ 3.689,16",6,2025-10-10,cliente282@email.com
+MARIA SOUZA  ,936.604.599-70,11 91234-5678,1980-11-22,São Paulo,"R$ 2.486,10",-10,2026-01-12,cliente376@email.com
+Pedro  Santos ,737.842.394-44,11 91234-5678,1981-01-02,MG,"R$ 2.571,15",7,2026-01-20,cliente384@email.com
+Pedro  Santos  ,998.172.747-79,11 91234-5678,1980-07-18,São Paulo,"R$ 3.031,40",6,2025-08-13,cliente224@email.com
+Carlos José  ,139.288.263-33,11 91234-5678,1980-11-15,ES,"R$ 2.896,41",2,2027-01-30,cliente759@email.com
+Carlos José,595.757.867-87,(11) 91234-5678,1980-03-19,sp,"R$ 4.599,47",9,2026-10-20,cliente657@email.com
+Carlos José ,801.646.758-39,(11) 91234-5678,09/12/1980,SP,"R$ 2.343,31",4,2026-04-18,cliente472@email.com
+ANA paula ,211.112.492-45,11 91234-5678,24-02-1980,Rio de Janeiro,"R$ 4.731,17",3,2025-12-14,cliente347@email.com
+MARIA SOUZA,683.186.361-95,11912345678,1980-01-13,RJ,"R$ 798,76",5,2026-05-21,cliente505@email.com
+MARIA SOUZA ,540.340.960-35,91234-5678,1980-04-06,S.Paulo,"R$ 3.450,61",4,2026-10-02,cliente639@email.com
+  joão silva ,576.172.240-79,(11) 91234-5678,1980-02-14,SP,"R$ 2.259,51",11,2027-02-28,cliente788@email.com
+MARIA SOUZA ,710.724.458-87,(11) 91234-5678,30-05-1980,Rio de Janeiro,"R$ 4.643,54",8,2027-01-11,cliente740@email.com
+Carlos José  ,253.489.359-38,11 91234-5678,06-04-1980,sp,"R$ 3.031,49",3,2026-12-24,cliente722@email.com
+Pedro  Santos ,165.756.474-43,nan,02/04/1980,sp,"R$ 3.659,65",2,2026-09-12,cliente619@email.com
+ANA paula,654.472.583-86,(11) 91234-5678,1980-09-03,S.Paulo,"R$ 3.013,04",3,2026-11-17,cliente685@email.com
+Carlos José  ,236.773.527-77,11 91234-5678,01/02/1980,Rio de Janeiro,"R$ 3.428,34",5,2026-10-08,cliente645@email.com
+Carlos José  ,218.255.883-56,91234-5678,11-11-1980,SP,"R$ 2.254,06",2,2026-11-10,cliente678@email.com
+   fernanda lima  ,424.491.787-65,11912345678,1980-08-02,Minas Gerais,"R$ 1.107,24",3,2026-07-11,cliente556@email.com
+  joão silva ,703.379.736-22,11912345678,13-04-1980,SP,"R$ 1.820,89",8,2026-08-01,cliente577@email.com
+ANA paula  ,443.683.494-73,11 91234-5678,28-06-1980,Espírito Santo,"R$ 3.238,55",3,2025-03-27,cliente85@email.com
+  joão silva  ,505.555.842-41,11 91234-5678,31/02/2000,MG,"R$ 3.956,30",4,2025-08-31,cliente242@email.com
+ANA paula  ,440.228.875-38,11 91234-5678,29/11/1980,ES,"R$ 2.546,59",6,2025-06-09,cliente159@email.com
+ANA paula,400.701.202-78,11912345678,10/08/1980,MG,"R$ 4.363,23",1,2026-06-09,cliente524@email.com
+   fernanda lima  ,895.692.213-49,(11) 91234-5678,11/01/1980,ES,"R$ 3.432,22",3,2025-02-05,cliente35@email.com
+ANA paula,410.912.456-94,11 91234-5678,04-08-1980,São Paulo,"R$ 2.091,23",3,2026-06-25,cliente540@email.com
+ANA paula,780.188.787-22,11 91234-5678,30/05/1980,sp,"R$ 3.008,78",500,2025-06-20,cliente170@email.com
+Carlos José  ,632.951.822-21,11912345678,22/04/1980,Minas Gerais,"R$ 2.871,45",8,2026-10-17,cliente654@email.com
+  joão silva ,556.259.430-17,(11) 91234-5678,01-02-1981,São Paulo,"R$ 2.889,99",10,2026-11-19,cliente687@email.com
+Carlos José ,564.203.703-67,(11) 91234-5678,1980-03-02,São Paulo,"R$ 2.338,46",4,2026-11-11,cliente679@email.com
+ANA paula  ,651.744.504-87,11912345678,1980-04-06,SP,"R$ 4.124,93",8,2027-01-23,cliente752@email.com
+ANA paula  ,324.900.844-86,91234-5678,1980-10-04,RJ,"R$ 4.229,99",5,2025-04-06,cliente95@email.com
+MARIA SOUZA ,926.224.344-39,nan,1980-03-15,S.Paulo,"R$ 3.006,27",3,2026-07-18,cliente563@email.com
+   fernanda lima ,971.347.463-74,(11) 91234-5678,1980-02-21,MG,"R$ 3.084,47",8,2025-08-29,cliente240@email.com
+Carlos José,861.596.440-55,11912345678,14-07-1980,MG,"R$ 2.617,55",5,2026-07-29,cliente574@email.com
+  joão silva ,165.582.347-37,(11) 91234-5678,01/04/1980,SP,"R$ 3.857,90",0,2026-04-06,cliente460@email.com
+MARIA SOUZA,886.768.301-69,11912345678,1980-01-10,SP,"R$ 3.803,15",2,2026-07-08,cliente553@email.com
+Carlos José,799.668.658-40,(11) 91234-5678,10-07-1980,São Paulo,"R$ 5.035,87",-10,2026-12-06,cliente704@email.com
+ANA paula,319.125.620-24,(11) 91234-5678,20/04/1980,sp,"R$ 4.121,86",-5,2025-07-26,cliente206@email.com
+   fernanda lima,947.499.281-98,11912345678,01-04-1980,Espírito Santo,"R$ 3.307,83",2,2026-01-28,cliente392@email.com
+MARIA SOUZA ,618.169.738-24,11 91234-5678,1980-09-05,São Paulo,"R$ 3.837,83",2,2026-02-02,cliente397@email.com
+MARIA SOUZA ,894.601.792-51,(11) 91234-5678,22-01-1980,MG,"R$ 3.753,42",4,2026-11-12,cliente680@email.com
+MARIA SOUZA ,353.869.419-44,(11) 91234-5678,1980-10-01,Minas Gerais,"R$ 2.576,11",7,2025-08-06,cliente217@email.com
+Carlos José ,913.128.576-71,nan,1980-07-30,Rio de Janeiro,"R$ 821,79",2,2025-01-05,cliente4@email.com
+Carlos José ,875.489.424-53,11 91234-5678,01/01/1980,Rio de Janeiro,"R$ 615,69",3,2026-10-05,cliente642@email.com
+  joão silva  ,149.622.962-37,11 91234-5678,29/05/1980,S.Paulo,"R$ 2.970,78",6,2026-12-18,cliente716@email.com
+MARIA SOUZA,287.227.300-10,(11) 91234-5678,1980-04-07,MG,"R$ 3.976,04",6,2026-09-05,cliente612@email.com
+Carlos José,550.294.255-53,91234-5678,23-05-1980,MG,"R$ 1.669,29",6,2026-07-01,cliente546@email.com
+  joão silva,221.242.205-53,(11) 91234-5678,1980-03-17,SP,"R$ 3.587,26",4,2025-04-09,cliente98@email.com
+MARIA SOUZA  ,453.515.208-60,11912345678,1980-07-09,Rio de Janeiro,"R$ 3.644,60",-10,2026-07-28,cliente573@email.com
+  joão silva ,994.589.426-95,(11) 91234-5678,1980-10-27,ES,"R$ 3.819,37",4,2026-02-11,cliente406@email.com
+   fernanda lima ,871.505.175-54,11912345678,02-10-1980,Minas Gerais,"R$ 2.670,51",5,2026-05-18,cliente502@email.com
+ANA paula  ,769.650.181-11,11 91234-5678,29-12-1980,Rio de Janeiro,"R$ 3.635,97",1000,2025-02-17,cliente47@email.com
+ANA paula,325.223.137-81,11912345678,1980-01-25,S.Paulo,"R$ 2.391,99",2,2025-02-02,cliente32@email.com
+  joão silva ,411.340.544-51,11912345678,23-02-1980,sp,"R$ 2.829,61",1,2025-07-20,cliente200@email.com
+  joão silva,165.262.328-14,11912345678,28/11/1980,Minas Gerais,"R$ 4.378,47",8,2025-05-15,cliente134@email.com
+  joão silva  ,679.456.709-20,(11) 91234-5678,24-08-1980,São Paulo,"R$ 2.477,87",3,2025-01-28,cliente27@email.com
+Carlos José,852.981.104-93,(11) 91234-5678,05-07-1980,SP,"R$ 2.508,04",7,2026-12-08,cliente706@email.com
+   fernanda lima  ,441.937.229-96,(11) 91234-5678,24-09-1980,S.Paulo,"R$ 3.609,53",1000,2025-08-19,cliente230@email.com
+  joão silva ,769.367.134-20,11 91234-5678,08-02-1980,MG,"R$ 2.745,05",7,2026-05-05,cliente489@email.com
+MARIA SOUZA  ,718.724.961-79,11 91234-5678,04/10/1980,sp,"R$ 4.784,78",3,2026-01-14,cliente378@email.com
+Pedro  Santos,792.437.272-41,(11) 91234-5678,05/08/1980,MG,"R$ 3.436,01",3,2025-10-16,cliente288@email.com
+   fernanda lima,660.131.490-30,(11) 91234-5678,1981-01-09,Espírito Santo,"R$ 4.252,54",5,2026-02-23,cliente418@email.com
+MARIA SOUZA  ,774.486.210-26,11912345678,30/06/1980,ES,"R$ 3.504,58",4,2026-11-06,cliente674@email.com
+Pedro  Santos  ,319.369.731-19,11912345678,10-11-1980,RJ,"R$ 2.743,05",4,2026-01-27,cliente391@email.com
+  joão silva ,516.315.506-24,(11) 91234-5678,12-11-1980,MG,"R$ 3.687,93",6,2026-08-16,cliente592@email.com
+Carlos José  ,125.919.704-31,11 91234-5678,28-09-1980,Rio de Janeiro,"R$ 1.946,16",10,2026-05-14,cliente498@email.com
+Pedro  Santos  ,691.704.877-85,11 91234-5678,22/01/1980,São Paulo,"R$ 1.802,03",5,2025-05-19,cliente138@email.com
+Pedro  Santos ,132.745.978-88,(11) 91234-5678,08/01/1980,sp,"R$ 3.644,52",2,2025-03-04,cliente62@email.com
+Carlos José  ,649.241.711-81,91234-5678,06/01/1981,MG,"R$ 3.188,48",7,2026-04-17,cliente471@email.com
+  joão silva  ,182.276.297-65,11 91234-5678,14-04-1980,RJ,"R$ 2.615,54",6,2026-10-10,cliente647@email.com
+Pedro  Santos ,397.625.433-11,(11) 91234-5678,1980-11-11,Rio de Janeiro,"R$ 4.528,75",7,2025-05-09,cliente128@email.com
+Carlos José  ,750.579.109-95,(11) 91234-5678,29/09/1980,ES,"R$ 2.679,61",4,2027-02-18,cliente778@email.com
+  joão silva ,432.226.657-54,11912345678,12-04-1980,S.Paulo,"R$ 3.061,88",5,2026-06-05,cliente520@email.com
+  joão silva  ,837.384.615-90,(11) 91234-5678,14-12-1980,Rio de Janeiro,"R$ 2.503,47",4,2025-03-06,cliente64@email.com
+MARIA SOUZA,418.401.443-20,(11) 91234-5678,23/09/1980,SP,"R$ 3.870,75",4,2025-01-15,cliente14@email.com
+Pedro  Santos  ,527.393.951-32,11912345678,04/06/1980,SP,"R$ 3.808,04",6,2025-06-06,cliente156@email.com
+  joão silva  ,191.452.670-68,(11) 91234-5678,27/11/1980,sp,"R$ 2.147,61",5,2025-02-10,cliente40@email.com
+   fernanda lima,375.968.783-42,11912345678,28/03/1980,Rio de Janeiro,"R$ 2.228,26",2,2026-05-08,cliente492@email.com
+Pedro  Santos,948.976.662-28,11912345678,1980-01-01,ES,"R$ 3.013,45",10,2026-01-15,cliente379@email.com
+  joão silva ,597.463.990-52,(11) 91234-5678,01-09-1980,Rio de Janeiro,"R$ 3.014,51",3,2025-07-07,cliente187@email.com
+  joão silva ,689.176.608-66,(11) 91234-5678,31/02/2000,S.Paulo,"R$ 2.861,49",3,2025-08-05,cliente216@email.com
+MARIA SOUZA ,425.566.513-80,(11) 91234-5678,31/02/2000,Espírito Santo,"R$ 1.935,78",5,2025-02-22,cliente52@email.com
+MARIA SOUZA ,520.800.452-65,11912345678,29-12-1980,sp,"R$ 3.015,70",7,2025-12-04,cliente337@email.com
+ANA paula,496.724.204-73,11 91234-5678,25-10-1980,SP,"R$ 3.728,94",7,2025-10-23,cliente295@email.com
+MARIA SOUZA,459.167.962-37,(11) 91234-5678,1980-06-16,RJ,"R$ 2.802,38",6,2026-12-03,cliente701@email.com
+Pedro  Santos,200.343.589-21,11912345678,1981-01-15,sp,"R$ 4.704,10",1,2025-09-09,cliente251@email.com
+ANA paula  ,146.553.300-29,(11) 91234-5678,28/01/1980,Espírito Santo,"R$ 3.553,57",6,2026-04-07,cliente461@email.com
+MARIA SOUZA ,140.406.437-67,11912345678,13/10/1980,Minas Gerais,"R$ 3.758,82",1,2026-04-01,cliente455@email.com
+   fernanda lima,369.773.800-13,(11) 91234-5678,03-09-1980,São Paulo,"R$ 3.231,61",5,2027-03-09,cliente797@email.com
+MARIA SOUZA,960.142.353-11,(11) 91234-5678,1980-03-19,Minas Gerais,"R$ 5.539,38",4,2025-09-27,cliente269@email.com
+ANA paula  ,135.183.551-16,(11) 91234-5678,1980-02-23,SP,"R$ 2.187,18",6,2025-07-21,cliente201@email.com
+MARIA SOUZA,274.901.292-64,11 91234-5678,1980-06-10,Espírito Santo,"R$ 2.669,91",1,2025-06-11,cliente161@email.com
+MARIA SOUZA ,916.980.905-73,11912345678,1980-01-06,São Paulo,"R$ 3.733,05",3,2026-07-10,cliente555@email.com
+MARIA SOUZA ,412.264.413-30,11912345678,03/04/1980,Rio de Janeiro,"R$ 3.654,43",5,2026-02-06,cliente401@email.com
+ANA paula,590.932.148-56,11 91234-5678,01/12/1980,MG,"R$ 2.634,76",4,2026-12-04,cliente702@email.com
+   fernanda lima,182.721.998-51,11912345678,1980-12-10,Rio de Janeiro,"R$ 2.806,29",2,2026-04-22,cliente476@email.com
+ANA paula,558.183.307-13,(11) 91234-5678,1980-06-29,Rio de Janeiro,"R$ 1.665,39",6,2025-04-16,cliente105@email.com
+Pedro  Santos  ,269.223.968-44,11 91234-5678,30/03/1980,ES,"R$ 4.150,27",6,2026-07-20,cliente565@email.com
+  joão silva ,507.975.717-39,(11) 91234-5678,1980-02-12,São Paulo,3239.56,4,2026-01-25,cliente389@email.com
+Carlos José,410.838.269-43,11 91234-5678,1980-09-27,Rio de Janeiro,"R$ 2.858,35",3,2025-01-02,cliente1@email.com
+   fernanda lima  ,483.790.441-56,(11) 91234-5678,25/01/1980,Minas Gerais,"R$ 3.037,70",6,2027-02-07,cliente767@email.com
+MARIA SOUZA ,765.254.529-73,11 91234-5678,1980-04-24,Minas Gerais,"R$ 3.091,09",4,2026-07-16,cliente561@email.com
+MARIA SOUZA ,792.635.927-12,11912345678,1980-12-21,sp,"R$ 3.587,39",3,2025-03-22,cliente80@email.com
+MARIA SOUZA,319.125.620-24,(11) 91234-5678,27/02/1980,RJ,"R$ 2.977,97",4,2025-07-25,cliente205@email.com
+   fernanda lima ,553.136.415-57,nan,22-09-1980,São Paulo,"R$ 1.659,93",4,2025-02-04,cliente34@email.com
+ANA paula  ,566.479.461-74,11 91234-5678,14-04-1980,RJ,"R$ 3.613,77",3,2026-05-24,cliente508@email.com
+   fernanda lima,778.535.890-98,(11) 91234-5678,1980-02-06,Minas Gerais,"R$ 3.724,14",2,2026-03-04,cliente427@email.com
+MARIA SOUZA,516.774.791-43,11 91234-5678,18/04/1980,Espírito Santo,"R$ 3.079,57",4,2026-03-31,cliente454@email.com
+Pedro  Santos ,641.413.216-40,(11) 91234-5678,07-03-1980,ES,"R$ 1.974,13",1,2026-01-02,cliente366@email.com
+Carlos José  ,652.500.687-55,(11) 91234-5678,1980-10-14,Espírito Santo,"R$ 4.122,37",2,2025-04-02,cliente91@email.com
+   fernanda lima  ,122.512.129-48,11912345678,31/02/2000,São Paulo,"R$ 2.553,68",4,2025-12-06,cliente339@email.com
+Carlos José  ,584.221.224-46,11 91234-5678,1980-07-07,Espírito Santo,"R$ 1.468,46",8,2026-07-19,cliente564@email.com
+Carlos José  ,109.504.995-55,11912345678,25-01-1980,São Paulo,"R$ 3.213,81",500,2025-12-12,cliente345@email.com
+Pedro  Santos  ,732.385.248-93,11912345678,10-01-1981,S.Paulo,"R$ 1.930,75",5,2025-08-30,cliente241@email.com
+Carlos José  ,479.809.906-65,91234-5678,02-01-1981,sp,"R$ 5.343,65",4,2025-01-14,cliente13@email.com
+ANA paula ,481.935.689-50,(11) 91234-5678,11-12-1980,S.Paulo,"R$ 5.918,17",8,2025-11-12,cliente315@email.com
+  joão silva ,542.936.112-56,11912345678,18-10-1980,Minas Gerais,"R$ 2.149,39",9,2026-08-24,cliente600@email.com
+MARIA SOUZA  ,463.287.668-40,91234-5678,1980-01-25,Rio de Janeiro,"R$ 3.957,93",6,2026-01-23,cliente387@email.com
+  joão silva,352.155.562-82,nan,1980-03-04,sp,"R$ 3.519,36",6,2025-10-01,cliente273@email.com
+   fernanda lima  ,900.100.246-40,11 91234-5678,21/12/1980,RJ,"R$ 2.265,77",5,2025-06-16,cliente166@email.com
+ANA paula,573.882.199-41,11912345678,10-01-1981,RJ,"R$ 3.707,03",2,2027-03-05,cliente793@email.com
+MARIA SOUZA,711.949.918-22,(11) 91234-5678,1980-10-10,S.Paulo,"R$ 2.288,54",1,2026-10-09,cliente646@email.com
+  joão silva  ,188.753.302-62,11912345678,15/01/1981,São Paulo,"R$ 2.482,24",8,2026-04-30,cliente483@email.com
+Pedro  Santos  ,290.828.662-45,11912345678,1980-05-28,Rio de Janeiro,3420.29,1,2027-02-22,cliente782@email.com
+MARIA SOUZA,261.446.460-10,11912345678,14/09/1980,ES,"R$ 2.725,20",7,2026-05-20,cliente504@email.com
+  joão silva ,260.883.559-47,(11) 91234-5678,12/11/1980,SP,2945.62,500,2025-09-01,cliente243@email.com
+Carlos José ,186.745.807-27,(11) 91234-5678,23-02-1980,SP,"R$ 2.794,72",5,2026-07-21,cliente566@email.com
+Carlos José,333.662.917-15,91234-5678,10-10-1980,Espírito Santo,"R$ 2.148,46",6,2026-07-17,cliente562@email.com
+Carlos José,746.327.722-60,11912345678,1980-09-29,Espírito Santo,"R$ 2.820,75",2,2026-11-18,cliente686@email.com
+   fernanda lima  ,914.216.223-24,(11) 91234-5678,1980-03-23,São Paulo,"R$ 4.254,34",8,2025-07-09,cliente189@email.com
+Carlos José ,493.606.400-92,11912345678,16-01-1980,sp,"R$ 4.669,92",3,2026-12-01,cliente699@email.com
+Carlos José,713.826.761-57,11912345678,05-05-1980,SP,"R$ 2.779,46",2,2026-04-21,cliente475@email.com
+ANA paula  ,798.274.833-43,11 91234-5678,1980-07-30,sp,"R$ 2.385,46",7,2026-11-13,cliente681@email.com
+ANA paula,241.390.531-93,91234-5678,12/09/1980,ES,"R$ 3.167,57",7,2026-05-26,cliente510@email.com
+ANA paula  ,573.219.309-59,(11) 91234-5678,10-09-1980,MG,"R$ 2.608,12",4,2025-02-28,cliente58@email.com
+Carlos José,523.955.369-35,11912345678,01/01/1980,SP,"R$ 1.489,96",1,2026-04-20,cliente474@email.com
+ANA paula,678.174.656-13,(11) 91234-5678,26-01-1980,S.Paulo,"R$ 3.534,36",9,2026-07-15,cliente560@email.com
+   fernanda lima,377.453.848-50,(11) 91234-5678,1980-04-12,Rio de Janeiro,"R$ 4.540,32",3,2027-01-18,cliente747@email.com
+ANA paula,338.660.141-47,11912345678,23/02/1980,São Paulo,2011.06,8,2025-09-10,cliente252@email.com
+  joão silva  ,616.872.153-56,(11) 91234-5678,24-11-1980,Rio de Janeiro,"R$ 1.649,44",6,2025-01-22,cliente21@email.com
+ANA paula ,419.237.649-90,(11) 91234-5678,09/09/1980,MG,"R$ 2.989,13",6,2025-11-10,cliente313@email.com
+   fernanda lima  ,388.823.992-25,(11) 91234-5678,02/09/1980,RJ,"R$ 2.687,33",6,2026-04-05,cliente459@email.com
+MARIA SOUZA  ,451.457.616-95,11912345678,1980-05-25,Minas Gerais,"R$ 1.204,36",4,2025-06-10,cliente160@email.com
+  joão silva  ,179.499.863-13,11 91234-5678,31/02/2000,sp,"R$ 1.417,57",5,2025-10-04,cliente276@email.com
+  joão silva ,882.423.888-22,11 91234-5678,14/10/1980,Espírito Santo,"R$ 3.538,43",5,2025-07-11,cliente191@email.com
+MARIA SOUZA  ,740.891.412-79,(11) 91234-5678,11-01-1981,ES,"R$ 3.415,84",5,2026-01-21,cliente385@email.com
+MARIA SOUZA  ,121.211.156-75,11912345678,1980-11-04,SP,"R$ 1.866,17",5,2026-02-18,cliente413@email.com
+   fernanda lima,866.760.424-57,11 91234-5678,1980-08-31,Rio de Janeiro,2209.11,3,2026-05-07,cliente491@email.com
+Carlos José ,548.203.582-73,11912345678,20-06-1980,S.Paulo,"R$ 1.044,95",6,2025-12-10,cliente343@email.com
+Pedro  Santos,850.268.442-67,(11) 91234-5678,1980-04-26,Espírito Santo,3452.68,2,2027-02-09,cliente769@email.com
+MARIA SOUZA,331.925.465-20,nan,1980-07-21,ES,2476.07,3,2025-11-05,cliente308@email.com
+  joão silva ,748.428.265-84,91234-5678,14-07-1980,MG,"R$ 1.617,98",7,2026-10-24,cliente661@email.com
+Pedro  Santos ,652.417.601-69,(11) 91234-5678,10/10/1980,Minas Gerais,"R$ 1.991,55",6,2025-05-11,cliente130@email.com
+Carlos José ,272.848.261-18,11 91234-5678,15-04-1980,Minas Gerais,"R$ 3.841,78",9,2026-10-26,cliente663@email.com
+Carlos José ,404.971.416-76,11912345678,1980-05-16,S.Paulo,"R$ 2.794,37",2,2025-04-10,cliente99@email.com
+  joão silva ,500.297.359-29,11912345678,13/07/1980,Espírito Santo,"R$ 3.360,39",9,2026-01-08,cliente372@email.com
+   fernanda lima  ,373.419.437-47,(11) 91234-5678,1980-02-07,ES,"R$ 2.856,74",4,2025-03-29,cliente87@email.com
+Carlos José ,961.882.958-44,11 91234-5678,08/12/1980,RJ,"R$ 2.791,33",6,2026-04-04,cliente458@email.com
+   fernanda lima,762.335.835-84,11912345678,26-04-1980,ES,"R$ 2.585,37",2,2025-11-27,cliente330@email.com
+  joão silva ,904.754.518-80,11912345678,29/12/1980,Minas Gerais,"R$ 3.709,35",6,2025-08-03,cliente214@email.com
+  joão silva  ,728.401.753-85,(11) 91234-5678,1980-03-15,SP,"R$ 2.241,03",6,2026-04-12,cliente466@email.com
+  joão silva,251.661.788-60,11 91234-5678,06-10-1980,Rio de Janeiro,1589.82,4,2025-05-02,cliente121@email.com
+Carlos José  ,203.634.364-43,(11) 91234-5678,1980-02-07,RJ,"R$ 2.371,35",3,2026-09-07,cliente614@email.com
+Carlos José  ,852.605.358-15,11912345678,07/09/1980,Rio de Janeiro,"R$ 2.312,99",6,2025-01-21,cliente20@email.com
+   fernanda lima ,366.560.792-81,11 91234-5678,1980-03-01,S.Paulo,"R$ 4.223,95",7,2026-12-02,cliente700@email.com
+   fernanda lima,968.183.873-28,11 91234-5678,15-08-1980,sp,"R$ 3.157,97",3,2025-03-13,cliente71@email.com
+Pedro  Santos ,489.413.121-35,(11) 91234-5678,1980-07-05,Espírito Santo,2519.70,6,2025-04-17,cliente106@email.com
+Pedro  Santos  ,159.762.566-40,11 91234-5678,04-08-1980,sp,"R$ 2.960,11",4,2025-09-28,cliente270@email.com
+ANA paula,486.976.358-36,(11) 91234-5678,23-11-1980,S.Paulo,"R$ 1.737,23",2,2026-03-12,cliente435@email.com
+  joão silva  ,458.322.515-50,(11) 91234-5678,07-06-1980,Espírito Santo,"R$ 4.748,14",3,2025-04-13,cliente102@email.com
